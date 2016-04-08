@@ -1,0 +1,370 @@
+<html xmlns="http://www.w3.org/TR/REC-html40" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/12/omml"><head><meta name="ProgId" content="Word.Document" /><meta name="Generator" content="Microsoft Word 12" /><meta name="Originator" content="Microsoft Word 12" /><link rel="File-List" href="resume_word1.files/filelist.xml" /><link rel="Edit-Time-Data" href="resume_word1.files/editdata.mso" /><link rel="themeData" href="resume_word1.files/themedata.thmx" /><link rel="colorSchemeMapping" href="resume_word1.files/colorschememapping.xml" />
+
+          <!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:View>Print</w:View>
+  <w:TrackMoves>false</w:TrackMoves>
+  <w:TrackFormatting/>
+  <w:PunctuationKerning/>
+  <w:DrawingGridHorizontalSpacing>5.25 磅</w:DrawingGridHorizontalSpacing>
+  <w:DrawingGridVerticalSpacing>7.8 磅</w:DrawingGridVerticalSpacing>
+  <w:DisplayHorizontalDrawingGridEvery>0</w:DisplayHorizontalDrawingGridEvery>
+  <w:DisplayVerticalDrawingGridEvery>2</w:DisplayVerticalDrawingGridEvery>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:DoNotPromoteQF/>
+  <w:LidThemeOther>EN-US</w:LidThemeOther>
+  <w:LidThemeAsian>ZH-CN</w:LidThemeAsian>
+  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
+  <w:Compatibility>
+   <w:SpaceForUL/>
+   <w:BalanceSingleByteDoubleByteWidth/>
+   <w:DoNotLeaveBackslashAlone/>
+   <w:ULTrailSpace/>
+   <w:DoNotExpandShiftReturn/>
+   <w:AdjustLineHeightInTable/>
+   <w:BreakWrappedTables/>
+   <w:SnapToGridInCell/>
+   <w:WrapTextWithPunct/>
+   <w:UseAsianBreakRules/>
+   <w:DontGrowAutofit/>
+   <w:SplitPgBreakAndParaMark/>
+   <w:DontVertAlignCellWithSp/>
+   <w:DontBreakConstrainedForcedTables/>
+   <w:DontVertAlignInTxbx/>
+   <w:Word11KerningPairs/>
+   <w:CachedColBalance/>
+   <w:UseFELayout/>
+  </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+  <m:mathPr>
+   <m:mathFont m:val="Cambria Math"/>
+   <m:brkBin m:val="before"/>
+   <m:smallFrac m:val="off"/>
+   <m:dispDef/>
+   <m:lMargin m:val="0"/>
+   <m:rMargin m:val="0"/>
+   <m:defJc m:val="centerGroup"/>
+   <m:wrapIndent m:val="1440"/>
+   <m:intLim m:val="subSup"/>
+   <m:naryLim m:val="undOvr"/>
+  </m:mathPr></w:WordDocument>
+</xml><[endif]-->
+        <!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="true"
+  DefSemiHidden="true" DefQFormat="false" DefPriority="99"
+  LatentStyleCount="267">
+  <w:LsdException Locked="false" Priority="0" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Normal"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="heading 1"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 2"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 3"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 4"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 5"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 6"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 7"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 8"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 9"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 1"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 2"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 3"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 4"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 5"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 6"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 7"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 8"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 9"/>
+  <w:LsdException Locked="false" Priority="35" QFormat="true" Name="caption"/>
+  <w:LsdException Locked="false" Priority="10" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Title"/>
+  <w:LsdException Locked="false" Priority="1" Name="Default Paragraph Font"/>
+  <w:LsdException Locked="false" Priority="11" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtitle"/>
+  <w:LsdException Locked="false" Priority="22" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Strong"/>
+  <w:LsdException Locked="false" Priority="20" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Emphasis"/>
+  <w:LsdException Locked="false" Priority="59" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Table Grid"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Placeholder Text"/>
+  <w:LsdException Locked="false" Priority="1" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="No Spacing"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 1"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 1"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Revision"/>
+  <w:LsdException Locked="false" Priority="34" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="List Paragraph"/>
+  <w:LsdException Locked="false" Priority="29" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Quote"/>
+  <w:LsdException Locked="false" Priority="30" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Quote"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 1"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 1"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 2"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 2"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 2"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 3"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 3"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 3"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 4"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 4"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 4"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 5"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 5"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 5"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 6"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 6"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 6"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="19" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtle Emphasis"/>
+  <w:LsdException Locked="false" Priority="21" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Emphasis"/>
+  <w:LsdException Locked="false" Priority="31" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtle Reference"/>
+  <w:LsdException Locked="false" Priority="32" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Reference"/>
+  <w:LsdException Locked="false" Priority="33" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Book Title"/>
+  <w:LsdException Locked="false" Priority="37" Name="Bibliography"/>
+  <w:LsdException Locked="false" Priority="39" QFormat="true" Name="TOC Heading"/>
+ </w:LatentStyles>
+</xml><![endif]-->
+
+        <style type="text/css">
+          td,p,div,span {font-size:12px;color:#000000;font-family:宋体;}
+          td{line-height:20px;}
+          .btnbox{ width:600px; height:100px;}
+          .yelline{height:3px;  width:176px; float:left; margin-top:12px; font-size:1;}
+          .btnbox-mid{  float:left; text-align:center}
+          .btnbox-yelbtn{font:500 20px Microsoft YaHei; color:#fff; padding:5px 10px; background-color:#eb6100; text-decoration:none;border-radius:5px;-webkit-border-radius:5px;-moz-border-radius:5px; border-bottom:2px #e54d00 solid; }
+          .Clicktext{ color:#004e9c}
+          .footercont{width:600px; border-top:1px #e1e1e1 solid;text-align:center;line-height:20px; padding:10px 0;background:#f6f7f9;color:#a3a4a9;}
+          .space-left{padding-left:3px;}
+          .space{padding:0 3px 0 3px}
+        </style></head><span style="display:none;">
+        ID:JR321347040R90250000000</span><table width="640" cellpadding="0" cellspacing="0" border="0"><tr height="85"><td align="right" width="213"><img src="http://images.zhaopin.com/2014/c/img/logo15624.png" width="201" height="70" /></td><td /></tr><tr><td height="3" colspan="2" /></tr><tr><td height="3" colspan="2" /></tr><tr><td height="10" /></tr></table><table width="640" align="center" cellpadding="0" cellspacing="0" border="0" style="font-size: 14px;font-family: 宋体;"><tr><td><table width="640" align="center" cellpadding="0" cellspacing="0" border="0"><tr><td><table width="600" align="center" cellpadding="0" cellspacing="0" border="0"><tr><td colspan="3" height="10" /></tr><tr><td valign="top" width="466"><table width="466" cellpadding="0" cellspacing="0" border="0" style="word-break: break-all; word-wrap:break-word;"><tr style="width:100%;height:50px"><td style="font-size:22px;color:#333333;font-family:'微软雅黑';padding-left:12px;line-height:50px">谢冠男</td></tr><tr width="466" style="height:30px"><td width="466" style="font-size:12px;color:#000000;line-height:24px;padding-left:12px;word-break: break-all; word-wrap:break-word;"><font style="font-weight:bold">男</font><small>|</small><font style="font-weight:bold">5年工作经验</font><small>|</small><font style="font-weight:bold">1987年12月</font><small>|</small><font style="font-weight:bold">已婚</font><br />现居住于北京-西城区<small>|</small>本科<small style="word-break:break-all;" class="space-left">|</small>
+                                户口北京<br />身份证:110102198712031113<br />手机：18610933252<br />E-mail：<a href="mailto:101002552@qq.com">101002552@qq.com</a></td></tr></table></td><td width="80"><div class="photo" style="padding: 0px 5px 5px 5px"><a target="_blank" href="http://mypics.zhaopin.com/pic/2013/7/30/472AA52072FE485C8CE3C069FB27870E.jpg"><img border="
+                                0
+                              " width="
+                                70
+                              " height="
+                                90
+                              " style="
+                                vertical-align:middle
+                              " src="http://mypics.zhaopin.com/pic/2013/7/30/472AA52072FE485C8CE3C069FB27870E.jpg" /></a></div></td><td width="6" /></tr><tr><td colspan="3" height="10" /></tr></table></td></tr><tr><td height="10" /></tr><tr><td><table width="600" align="center" cellpadding="0" cellspacing="0" border="0" style="word-break: break-all; word-wrap:break-word;"><tr><td><table width="600" height="30" cellpadding="0" cellspacing="0" border="0" bgcolor="#429bd8"><tr><td style="border:1px solid #ebebeb;padding-left:5px;word-break: break-all; word-wrap:break-word;"><span style="color:#ffffff;font-size:14px;">自我评价</span></td></tr></table><table width="600"><tr><td colspan="2" height="5" /></tr><tr><td colspan="2" style="line-height:18px;word-break:break-all;word-wrap:break-word;padding-left:12px;">五年JAVA开发经验，熟练使用常见前后端开发框架，如SSH,SpringMVC,mybatis,Redis,Activiti等，前端<br/>Angularjs,Bootstrap,Jquery框架，熟悉数据库，能够编写存储过程等，熟悉Linux及BashShell脚本，此外熟悉设计模式，对JVM、网站架构有一定的了解。此外，我现在只考虑互联网相关企业，谢谢</td></tr><tr height="6"><td colspan="2" height="5"><br /></td></tr><tr><td colspan="2" height="5" /></tr></table></td></tr></table></td></tr><tr><td><br /><table width="600" height="30" align="center" cellpadding="0" cellspacing="0" border="0" bgcolor="#429bd8"><tr><td style="border:1px solid #ebebeb;padding-left:5px;"><span style="color:#ffffff;font-size:14px;">求职意向</span></td></tr></table><br /><table width="600" align="center" cellpadding="0" cellspacing="0" border="0"><tr><td width="95" align="left" valign="top"><p style="width:132px;text-align:right;font-weight:bold; font-size:12px; font-family:'新宋体';">工作性质：</p></td><td width="475" valign="top" style="color:#333333;word-break: break-all; word-wrap:break-word;">全职</td></tr><tr><td width="95" align="left" valign="top"><p style="width:132px;text-align:right;font-weight:bold; font-size:12px; font-family:'新宋体';">期望职业：</p></td><td width="475" valign="top" style="color:#333333;word-break: break-all; word-wrap:break-word;">高级软件工程师、软件工程师、软件研发工程师、</td></tr><tr><td width="95" align="left" valign="top"><p style="width:132px;text-align:right;font-weight:bold; font-size:12px; font-family:'新宋体';"> 期望行业：</p></td><td width="475" valign="top" style="color:#333333;word-break: break-all; word-wrap:break-word;">互联网/电子商务</td></tr><tr><td width="95" align="left" valign="top"><p style="width:132px;text-align:right;font-weight:bold; font-size:12px; font-family:'新宋体';">工作地区：</p></td><td width="475" valign="top" style="color:#333333;word-break: break-all; word-wrap:break-word;">北京</td></tr><tr><td width="95" align="left" valign="top"><p style="width:132px;text-align:right;font-weight:bold; font-size:12px; font-family:'新宋体';">期望月薪：</p></td><td width="475" valign="top" style="color:#333333;word-break: break-all; word-wrap:break-word;">面议</td></tr><tr><td width="95" align="left" valign="top"><p style="width:132px;text-align:right;font-weight:bold; font-size:12px; font-family:'新宋体';">目前状况：</p></td><td width="475" valign="top" style="color:#333333;word-break: break-all; word-wrap:break-word;">我目前处于离职状态，可立即上岗</td></tr></table></td></tr><tr><td><br /><table width="600" height="30" align="center" cellpadding="0" cellspacing="0" border="0" bgcolor="#429bd8"><tr><td style="border:1px solid #ebebeb;padding-left:5px;"><span style="color:#ffffff;font-size:14px;">工作经历</span></td></tr></table><br /><table width="600" align="center" cellpadding="0" cellspacing="0" border="0"><tr><td style="color:#333333;"><table cellpadding="0" cellspacing="0" border="0" style="margin-bottom:15px;word-break: break-all; word-wrap:break-word;"><tr><td width="132" height="22" style="text-align:right;font-weight:bold; font-size:12px; font-family:'新宋体';"><p style="width:132px;text-align:right;font-weight:bold; font-size:12px; font-family:'新宋体';">2014/09
+                                      - 
+                                          至今
+                                        </p></td><td width="424" style="padding-left:14px; font-weight:bold;word-break: break-all; word-wrap:break-word;"><span style="display:inline-block;margin:0 2px">北京市太极华青信息系统有限公司产品开发部</span><span style="display:inline-block;margin:0 2px; font-size:12px; font-family:'新宋体';">
+                                      （1年7个月）
+                                    </span></td></tr><tr><td width="132" height="22" /><td width="424" style="padding-left:14px; font-weight:bold;word-break: break-all; word-wrap:break-word; font-size:12px; font-family:'新宋体';"><span style="display:inline-block;margin:0 2px">软件工程师</span><font style="display:inline-block;margin:0 2px; font-size:12px; font-family:'新宋体';">|</font><span style="display:inline-block;margin:0 2px; font-size:12px; font-family:'新宋体';">保密</span></td></tr><tr><td width="132" height="22" /><td width="424" style="padding-left:14px;word-break: break-all; word-wrap:break-word;"><span style="display:inline-block;margin:0 2px; font-size:12px; font-family:'新宋体';">计算机软件</span><font style="display:inline-block;margin:0 2px">|</font><span style="display:inline-block;margin:0 2px">
+                                        企业性质：股份制企业</span><font style="display:inline-block;margin:0 2px">|</font><span style="display:inline-block;margin:0 2px">
+                                        规模：1000-9999人</span></td></tr><tr><td width="132" height="22" /><td width="424" style="padding-left:14px;word-break: break-all; word-wrap:break-word;"><p style="line-height:20px;"><span>工作描述：</span>1、根据产品开发经理分配的业务需求进行系统开发。</p></td></tr></table></td></tr><tr><td style="color:#333333;"><table cellpadding="0" cellspacing="0" border="0" style="margin-bottom:15px;word-break: break-all; word-wrap:break-word;"><tr><td width="132" height="22" style="text-align:right;font-weight:bold; font-size:12px; font-family:'新宋体';"><p style="width:132px;text-align:right;font-weight:bold; font-size:12px; font-family:'新宋体';">2013/07
+                                      - 2014/09</p></td><td width="424" style="padding-left:14px; font-weight:bold;word-break: break-all; word-wrap:break-word;"><span style="display:inline-block;margin:0 2px">首都信息发展股份有限公司</span><span style="display:inline-block;margin:0 2px; font-size:12px; font-family:'新宋体';">
+                                      （1年2个月）
+                                    </span></td></tr><tr><td width="132" height="22" /><td width="424" style="padding-left:14px; font-weight:bold;word-break: break-all; word-wrap:break-word; font-size:12px; font-family:'新宋体';"><span style="display:inline-block;margin:0 2px">软件工程师</span><font style="display:inline-block;margin:0 2px; font-size:12px; font-family:'新宋体';">|</font><span style="display:inline-block;margin:0 2px; font-size:12px; font-family:'新宋体';">保密</span></td></tr><tr><td width="132" height="22" /><td width="424" style="padding-left:14px;word-break: break-all; word-wrap:break-word;"><span style="display:inline-block;margin:0 2px; font-size:12px; font-family:'新宋体';">互联网/电子商务</span><font style="display:inline-block;margin:0 2px">|</font><span style="display:inline-block;margin:0 2px">
+                                        企业性质：上市公司</span><font style="display:inline-block;margin:0 2px">|</font><span style="display:inline-block;margin:0 2px">
+                                        规模：1000-9999人</span></td></tr><tr><td width="132" height="22" /><td width="424" style="padding-left:14px;word-break: break-all; word-wrap:break-word;"><p style="line-height:20px;"><span>工作描述：</span>产后康复中心系统担任项目经理：<br/>1、负责信息系统的业务需求调研，梳理需求，完成用户需求列表；<br/>2、开发阶段，指导开发组组长业务，配合完成开发，同时，在开发阶段，负责少部分模块的开发工作。在该阶段定期回溯，确保符合业务需求，对于不确定的问题，积极联系客户，解决问题；<br/>3、测试阶段，配合测试组完成测试。对测试组进行业务培训，讲解业务流程及规则，追踪BUG，确保系统符合质量要求；<br/>4、部署阶段，部署业务系统后，向客户进行系统汇报，对新需求进行记录及分析。<br/>CRM系统中担任开发程序员：<br/>1、根据项目经理分配的开发任务，负责项目功能模块的开发。<br/>离职原因：开发团队领导离职，团队人员陆续离职，各方面工作不好开展</p></td></tr></table></td></tr><tr><td style="color:#333333;"><table cellpadding="0" cellspacing="0" border="0" style="margin-bottom:15px;word-break: break-all; word-wrap:break-word;"><tr><td width="132" height="22" style="text-align:right;font-weight:bold; font-size:12px; font-family:'新宋体';"><p style="width:132px;text-align:right;font-weight:bold; font-size:12px; font-family:'新宋体';">2011/07
+                                      - 2013/07</p></td><td width="424" style="padding-left:14px; font-weight:bold;word-break: break-all; word-wrap:break-word;"><span style="display:inline-block;margin:0 2px">中国电力科学研究院</span><span style="display:inline-block;margin:0 2px; font-size:12px; font-family:'新宋体';">
+                                      （2年）
+                                    </span></td></tr><tr><td width="132" height="22" /><td width="424" style="padding-left:14px; font-weight:bold;word-break: break-all; word-wrap:break-word; font-size:12px; font-family:'新宋体';"><span style="display:inline-block;margin:0 2px">信息系统管理员</span><font style="display:inline-block;margin:0 2px; font-size:12px; font-family:'新宋体';">|</font><span style="display:inline-block;margin:0 2px; font-size:12px; font-family:'新宋体';">保密</span></td></tr><tr><td width="132" height="22" /><td width="424" style="padding-left:14px;word-break: break-all; word-wrap:break-word;"><span style="display:inline-block;margin:0 2px; font-size:12px; font-family:'新宋体';">电子技术/半导体/集成电路</span><font style="display:inline-block;margin:0 2px">|</font><span style="display:inline-block;margin:0 2px">
+                                        企业性质：国企</span><font style="display:inline-block;margin:0 2px">|</font><span style="display:inline-block;margin:0 2px">
+                                        规模：1000-9999人</span></td></tr><tr><td width="132" height="22" /><td width="424" style="padding-left:14px;word-break: break-all; word-wrap:break-word;"><p style="line-height:20px;"><span>工作描述：</span>1.负责所在单位网络及计算机管理，并与信息中心协同，确保计算机的正常使用； <br/>2.从业务方面，管理信息系统，并确保信息系统正常运行使用；<br/>3.使用erp系统完成材料采购，以及销售等核心业务，也使用其他系统完成相关业务，主要接触以下系统：oa系统、经法系统、erp等； <br/>4.负责采购合同的线下办理及归档等工作；<br/>5.完成主任的其他行政类工作内容，如组织项目验收会等。</p></td></tr></table></td></tr></table></td></tr><tr><td><br /><table width="600" height="30" align="center" cellpadding="0" cellspacing="0" border="0" bgcolor="#429bd8"><tr><td style="border:1px solid #ebebeb;padding-left:5px;"><span style="color:#ffffff;font-size:14px;">项目经验</span></td></tr></table><br /><table width="600" align="center" cellpadding="0" cellspacing="0" border="0"><tr><td style="color:#333333;word-break: break-all; word-wrap:break-word;"><table cellpadding="0" cellspacing="0" border="0" style="margin-bottom:15px;word-break: break-all; word-wrap:break-word;"><tr><td width="132" height="22" style="text-align:right;font-weight:bold; font-size:12px; font-family:'新宋体';"><p style="width:132px;text-align:right;font-weight:bold; font-size:12px; font-family:'新宋体';">2015/12
+                                      - 
+                                          至今
+                                        </p></td><td width="424" style="padding-left:14px; font-weight:bold"><span style="display:inline-block;margin:0 2px">通用单据系统</span></td></tr><tr><td width="132" height="22" /><td width="424" style="padding-left:14px;"><p style="line-height:20px;"><span>软件环境：</span>Weblogic+Linux</p></td></tr><tr><td width="132" height="22" /><td width="424" style="padding-left:14px;word-break: break-all; word-wrap:break-word;"><p style="line-height:20px;"><span>责任描述：</span>该项目是公司近期的一个新项目，本人担当该项目的项目经理；<br/>1、协调业务部，梳理需求，组织开发人员完成相应需求的开发，负责3名开发人员的工作安排；<br/>2、解决开发人员遇到的问题；<br/>3、技术以外，其他一些管理方面的事情；</p></td></tr><tr><td width="132" height="22" /><td width="424" style="padding-left:14px;"><p style="line-height:20px;word-break: break-all; word-wrap:break-word;"><span>项目简介：</span>该项目也是公司通用产品下的一个子项目，我们扩展符合新的业务需求的子系统；<br/>项目业务简单描述，通过OA系统发送各种公文，公文下可以附带各种类型的单据，业务人员可以对单据中自定义的业务表进行录入，自动审核，公式计算等操作。业务表的种类有很多，比如有最常见的普通表格，有固定行列的表格，固定行的浮动表等等。</p></td></tr></table></td></tr><tr><td style="color:#333333;word-break: break-all; word-wrap:break-word;"><table cellpadding="0" cellspacing="0" border="0" style="margin-bottom:15px;word-break: break-all; word-wrap:break-word;"><tr><td width="132" height="22" style="text-align:right;font-weight:bold; font-size:12px; font-family:'新宋体';"><p style="width:132px;text-align:right;font-weight:bold; font-size:12px; font-family:'新宋体';">2015/04
+                                      - 
+                                          至今
+                                        </p></td><td width="424" style="padding-left:14px; font-weight:bold"><span style="display:inline-block;margin:0 2px">数据库同步系统</span></td></tr><tr><td width="132" height="22" /><td width="424" style="padding-left:14px;"><p style="line-height:20px;"><span>软件环境：</span>Weblogic+Oracle</p></td></tr><tr><td width="132" height="22" /><td width="424" style="padding-left:14px;"><p style="line-height:20px;"><span>开发工具：</span>MyEclipse</p></td></tr><tr><td width="132" height="22" /><td width="424" style="padding-left:14px;word-break: break-all; word-wrap:break-word;"><p style="line-height:20px;"><span>责任描述：</span>1、独自负责完成部门经理提出的业务需求的相关开发；<br/>2、熟悉源代码并发现代码结构不合理后，自觉并独自完成了整套系统的重构工作；<br/>3、对测试及实施人员提出的问题及修改意见进行修改。</p></td></tr><tr><td width="132" height="22" /><td width="424" style="padding-left:14px;"><p style="line-height:20px;word-break: break-all; word-wrap:break-word;"><span>项目简介：</span>该项目用于两个物理数据库之间的表数据、表结构、视图、存储器、触发器的同步工作；在业务上主要体现在，上级部门给下级单位的下发数据库表上，这样就可以做到数据库的物理隔离，同时保持数据及结构上的同步，如中央通过该系统将数据、结构等同步给各省市的数据库，最后各省市又将填报的数据同步上报至中央数据库中；该系统难点在后台代码上，如CLOB,BLOB字段等一系列的问题处理上。该系统在公司内部历经多个版本的推倒重做，截止到目前，已经总结出了一套比较行之有效的方案。<br/><br/>后续：在完成第一版的修改后，渐渐发现原版本的程序结构已经跟不上业务需求的变化，导致代码内部逻辑比较混乱，各个类之间关系同样如此，每次修改都要读原始代码，才能进行修改，使得系统慢慢走向一条死胡同。之后，我利用三周的时间，重新梳理结构，运用设计模式将其重构了一套2.0版本的系统，将业务与通用代码进行了分离，业务变化点基本上都做了抽象，系统启动时自动加载开发者的实现；与此同时我又将各个类的职责划分更明确，使其符合OOP中最基础的SRP原则。我重构的这套系统目前完全适应业务的变化，而通用的部分又可以方便的运用在其他项目中，总之这套系统重构非常成功。</p></td></tr></table></td></tr><tr><td style="color:#333333;word-break: break-all; word-wrap:break-word;"><table cellpadding="0" cellspacing="0" border="0" style="margin-bottom:15px;word-break: break-all; word-wrap:break-word;"><tr><td width="132" height="22" style="text-align:right;font-weight:bold; font-size:12px; font-family:'新宋体';"><p style="width:132px;text-align:right;font-weight:bold; font-size:12px; font-family:'新宋体';">2015/01
+                                      - 2015/03</p></td><td width="424" style="padding-left:14px; font-weight:bold"><span style="display:inline-block;margin:0 2px">进口税式支出管理系统</span></td></tr><tr><td width="132" height="22" /><td width="424" style="padding-left:14px;"><p style="line-height:20px;"><span>软件环境：</span>Weblogic+Oracle</p></td></tr><tr><td width="132" height="22" /><td width="424" style="padding-left:14px;"><p style="line-height:20px;"><span>硬件环境：</span>LINUX服务器</p></td></tr><tr><td width="132" height="22" /><td width="424" style="padding-left:14px;"><p style="line-height:20px;"><span>开发工具：</span>MyEclipse</p></td></tr><tr><td width="132" height="22" /><td width="424" style="padding-left:14px;word-break: break-all; word-wrap:break-word;"><p style="line-height:20px;"><span>责任描述：</span>1、在该项目的开发中，本人承担技术经理的职责，指导并协同另外两名开发人员一起完成开发；<br/>2、与项目经理做好沟通工作，确保满足用户的业务需求；<br/>3、项目部署至客户现场Linux服务器；<br/>4、针对二期项目做工期评估等工作。</p></td></tr><tr><td width="132" height="22" /><td width="424" style="padding-left:14px;"><p style="line-height:20px;word-break: break-all; word-wrap:break-word;"><span>项目简介：</span>进口税式支出管理系统，有助于对进口税收优惠政策的规范化、科学化、精细化管理，实现数据积累、统计分析等电子化、保证政策评估和管理质量，加强与政策管理、执行、落实等单位的联系、指导与监督，进口税式支出管理系统建设非常必要。该项目运用公司的财政产品，进行个性化开发，完成客户需求，对公司产品未来项目化奠定了一定基础。</p></td></tr></table></td></tr><tr><td style="color:#333333;word-break: break-all; word-wrap:break-word;"><table cellpadding="0" cellspacing="0" border="0" style="margin-bottom:15px;word-break: break-all; word-wrap:break-word;"><tr><td width="132" height="22" style="text-align:right;font-weight:bold; font-size:12px; font-family:'新宋体';"><p style="width:132px;text-align:right;font-weight:bold; font-size:12px; font-family:'新宋体';">2014/09
+                                      - 
+                                          至今
+                                        </p></td><td width="424" style="padding-left:14px; font-weight:bold"><span style="display:inline-block;margin:0 2px">预算综合管理系统</span></td></tr><tr><td width="132" height="22" /><td width="424" style="padding-left:14px;"><p style="line-height:20px;"><span>软件环境：</span>Weblogic+Oracle</p></td></tr><tr><td width="132" height="22" /><td width="424" style="padding-left:14px;"><p style="line-height:20px;"><span>开发工具：</span>MyEclipse</p></td></tr><tr><td width="132" height="22" /><td width="424" style="padding-left:14px;word-break: break-all; word-wrap:break-word;"><p style="line-height:20px;"><span>责任描述：</span>1、该项目中，我主要负责工作流任务模块的代码开发及维护；</p></td></tr><tr><td width="132" height="22" /><td width="424" style="padding-left:14px;"><p style="line-height:20px;word-break: break-all; word-wrap:break-word;"><span>项目简介：</span>该系统面向用户为中国财政部中央预算处。业务层面十分复杂，用最简单的话描述：每年中央预算处下达第二年的预算任务，由全国各个省、市、县根据中央下达的任务进行填报、审批，再按层级向上汇报，各级单位可以随时查看上报给本级单位的汇总数据。该项目是产品化项目，目前即将面向全国各财政部门推广，已经在中国财政部、陕西省财政厅等地方陆续上线。项目开发框架采用SSM+Dubbo，在系统架构上由公共平台提供基础服务，通过dubbo远程调用各个子系统服务，而前台使用一套公司自己研发的框架，类似EXT，与业务关联性很强。</p></td></tr></table></td></tr><tr><td style="color:#333333;word-break: break-all; word-wrap:break-word;"><table cellpadding="0" cellspacing="0" border="0" style="margin-bottom:15px;word-break: break-all; word-wrap:break-word;"><tr><td width="132" height="22" style="text-align:right;font-weight:bold; font-size:12px; font-family:'新宋体';"><p style="width:132px;text-align:right;font-weight:bold; font-size:12px; font-family:'新宋体';">2014/03
+                                      - 2014/09</p></td><td width="424" style="padding-left:14px; font-weight:bold"><span style="display:inline-block;margin:0 2px">产后康复系统</span></td></tr><tr><td width="132" height="22" /><td width="424" style="padding-left:14px;word-break: break-all; word-wrap:break-word;"><p style="line-height:20px;"><span>责任描述：</span>1、负责信息系统的业务需求调研，梳理需求，完成用户需求列表； <br/>2、开发阶段，指导开发组组长业务，配合完成开发，同时，在开发阶段，负责少部分模块的开发工作。在该阶段定期回溯，确保符合业务需求，对于不确定的问题，积极联系客户，解决问题； <br/>3、测试阶段，配合测试组完成测试。对测试组进行业务培训，讲解业务流程及规则，追踪BUG，确保系统符合质量要求； <br/>4、部署阶段，部署业务系统后，向客户进行系统汇报，对新需求进行记录及分析。</p></td></tr><tr><td width="132" height="22" /><td width="424" style="padding-left:14px;"><p style="line-height:20px;word-break: break-all; word-wrap:break-word;"><span>项目简介：</span>产后康复系统服务于目前流行的月子会所，其包含收费、套餐、折扣、房务、巡房管理等12个模块，其中核心模块为收费管理模块，涉及日结、统计报表等子功能。</p></td></tr></table></td></tr><tr><td style="color:#333333;word-break: break-all; word-wrap:break-word;"><table cellpadding="0" cellspacing="0" border="0" style="margin-bottom:15px;word-break: break-all; word-wrap:break-word;"><tr><td width="132" height="22" style="text-align:right;font-weight:bold; font-size:12px; font-family:'新宋体';"><p style="width:132px;text-align:right;font-weight:bold; font-size:12px; font-family:'新宋体';">2014/01
+                                      - 2014/03</p></td><td width="424" style="padding-left:14px; font-weight:bold"><span style="display:inline-block;margin:0 2px">爱育华妇幼医院CRM</span></td></tr><tr><td width="132" height="22" /><td width="424" style="padding-left:14px;"><p style="line-height:20px;"><span>开发工具：</span>eclipse</p></td></tr><tr><td width="132" height="22" /><td width="424" style="padding-left:14px;word-break: break-all; word-wrap:break-word;"><p style="line-height:20px;"><span>责任描述：</span>1、配合项目经理完成前期的业务调研任务，及时完成客户反馈的需求，修改DEMO，确认设计；<br/>2、在原有产品基础上，根据客户的新需求，对原有产品进行二次开发。</p></td></tr><tr><td width="132" height="22" /><td width="424" style="padding-left:14px;"><p style="line-height:20px;word-break: break-all; word-wrap:break-word;"><span>项目简介：</span>客户通过使用CRM系统，可以提高客户满意度及忠诚度</p></td></tr></table></td></tr><tr><td style="color:#333333;word-break: break-all; word-wrap:break-word;"><table cellpadding="0" cellspacing="0" border="0" style="margin-bottom:15px;word-break: break-all; word-wrap:break-word;"><tr><td width="132" height="22" style="text-align:right;font-weight:bold; font-size:12px; font-family:'新宋体';"><p style="width:132px;text-align:right;font-weight:bold; font-size:12px; font-family:'新宋体';">2013/08
+                                      - 2013/12</p></td><td width="424" style="padding-left:14px; font-weight:bold"><span style="display:inline-block;margin:0 2px">医疗CRM产品</span></td></tr><tr><td width="132" height="22" /><td width="424" style="padding-left:14px;"><p style="line-height:20px;"><span>开发工具：</span>eclipse</p></td></tr><tr><td width="132" height="22" /><td width="424" style="padding-left:14px;word-break: break-all; word-wrap:break-word;"><p style="line-height:20px;"><span>责任描述：</span>负责部分模块开发及相关数据库设计，包括问卷调查、行为规则设置、系统自动回访、呼叫中心及微信模块，以上模块全部独立完成开发。</p></td></tr><tr><td width="132" height="22" /><td width="424" style="padding-left:14px;"><p style="line-height:20px;word-break: break-all; word-wrap:break-word;"><span>项目简介：</span>建设“数字化医院”是目前很多医疗机构提出的建院方针。系统的应用，对提高管理的动态性、有效性和科学性将发挥积极作用。在规范医疗机构业务流程的同时，很多医疗行业相关人士认识到建立以客户为中心的信息系统的重要性，使医院有效地管理客户资源，提供与客户沟通的统一平台，改变客户服务模式，提高采集客户反馈的频率和正确率，减少沟通环节，降低运营成本，发现新客户和机会，提高客户满意度和忠诚度，最终实现医院效益的提高。</p></td></tr></table></td></tr></table></td></tr><tr><td><br /><table width="600" height="30" align="center" cellpadding="0" cellspacing="0" border="0" bgcolor="#429bd8"><tr><td style="border:1px solid #ebebeb;padding-left:5px;"><span style="color:#ffffff;font-size:14px;">教育经历</span></td></tr></table><br /><table width="600" align="center" cellpadding="0" cellspacing="0" border="0"><tr><td style="color:#333333;word-break: break-all; word-wrap:break-word;"><table cellpadding="0" cellspacing="0" border="0"><tr height="20"><td width="132" style=" font-size:12px; font-family:'新宋体';" valign="top"><p style="width:132px;text-align:right;font-weight:bold; font-size:12px; font-family:'新宋体';">2007/09 - 2011/07</p></td><td width="412" style="word-break: break-all; word-wrap:break-word;padding-left:12px;"><span style="display:inline-block;margin-right:12px;font-weight:normal;">北京信息科技大学</span><span style="display:inline-block;margin-right:12px;font-weight:normal;">
+                                      &nbsp;信息管理与信息系统</span><span style="display:inline-block;margin-right:12px;font-weight:normal;">
+                                      &nbsp;本科</span></td></tr></table></td></tr></table></td></tr><tr><td><br /><table width="600" height="30" align="center" cellpadding="0" cellspacing="0" border="0" bgcolor="#429bd8"><tr><td style="border:1px solid #ebebeb;padding-left:5px;"><span style="color:#ffffff;font-size:14px;">在校学习情况</span></td></tr></table><br /><table width="600" align="center" cellpadding="0" cellspacing="0" border="0"><tr><td style="color:#333333;word-break: break-all; word-wrap:break-word;"><table /><table cellpadding="0" cellspacing="0" border="0"><tr height="20"><td width="52" style="padding-left:12px;">2010/09</td><td width="490"><span style="display:inline-block;margin-right:2px;">
+                                      &nbsp;单项奖学金，进步奖学金</span><font style="display:inline-block;margin-right:4px;">|</font><span style="display:inline-block;margin-right:12px;">院校级</span></td></tr><tr><td colspan="2" style="padding-left:12px;line-height:20px;word-break: break-all; word-wrap:break-word;" /></tr></table></td></tr></table></td></tr><tr><td><br /><table width="600" height="30" align="center" cellpadding="0" cellspacing="0" border="0" bgcolor="#429bd8"><tr><td style="border:1px solid #ebebeb;padding-left:5px;"><span style="color:#ffffff;font-size:14px;">证书</span></td></tr></table><br /><table width="600" align="center" cellpadding="0" cellspacing="0" border="0"><tr><td style="color:#333333;word-break: break-all; word-wrap:break-word;"><table cellpadding="0" cellspacing="0" border="0"><tr height="20"><td width="54" style="padding-left:12px;">2010/03</td><td width="500" style="padding-left:12px;"><span style="display:inline-block;margin-right:12px;">大学英语四级</span></td></tr></table></td></tr></table></td></tr><tr><td><br /><table width="600" height="30" align="center" cellpadding="0" cellspacing="0" border="0" bgcolor="#429bd8"><tr><td style="border:1px solid #ebebeb;padding-left:5px;"><span style="color:#ffffff;font-size:14px;">语言能力</span></td></tr></table><br /><table width="600" align="center" cellpadding="0" cellspacing="0" border="0"><tr><td style="color:#333333;word-break: break-all; word-wrap:break-word;"><table cellpadding="0" cellspacing="0" border="0"><tr height="20"><td style="padding-left:12px;"><span style="display:inline-block;">英语：
+                                        </span><span style="display:inline-block;">
+                                          读写能力&nbsp;良好</span><font style="display:inline-block;padding-left:4px;">|</font><span style="display:inline-block;padding-left:4px;">
+                                          听说能力&nbsp;良好</span></td></tr></table></td></tr></table></td></tr></table></td></tr></table><br /></html>
