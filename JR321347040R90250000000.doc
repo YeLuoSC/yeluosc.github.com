@@ -501,9 +501,9 @@ margin-left:324.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
 mso-level-number-format:decimal;
 mso-level-suffix:tab;
 mso-level-text:"%1.";
-mso-level-tab-stop:18.0000pt;
+mso-level-tab-stop:39.0000pt;
 mso-level-number-position:left;
-margin-left:18.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+margin-left:39.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
 
 @list l12:level2{
 mso-level-number-format:decimal;
@@ -573,9 +573,9 @@ margin-left:324.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
 mso-level-number-format:bullet;
 mso-level-suffix:tab;
 mso-level-text:\F06C;
-mso-level-tab-stop:18.0000pt;
+mso-level-tab-stop:81.0000pt;
 mso-level-number-position:left;
-margin-left:18.0000pt;text-indent:-18.0000pt;font-family:Wingdings;}
+margin-left:81.0000pt;text-indent:-18.0000pt;font-family:Wingdings;}
 
 @list l13:level2{
 mso-level-number-format:decimal;
@@ -642,12 +642,12 @@ mso-level-number-position:left;
 margin-left:324.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
 
 @list l14:level1{
-mso-level-number-format:bullet;
+mso-level-number-format:decimal;
 mso-level-suffix:tab;
-mso-level-text:\F06C;
-mso-level-tab-stop:60.0000pt;
+mso-level-text:"%1.";
+mso-level-tab-stop:18.0000pt;
 mso-level-number-position:left;
-margin-left:60.0000pt;text-indent:-18.0000pt;font-family:Wingdings;}
+margin-left:18.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
 
 @list l14:level2{
 mso-level-number-format:decimal;
@@ -714,12 +714,12 @@ mso-level-number-position:left;
 margin-left:324.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
 
 @list l15:level1{
-mso-level-number-format:decimal;
+mso-level-number-format:bullet;
 mso-level-suffix:tab;
-mso-level-text:"%1.";
-mso-level-tab-stop:60.0000pt;
+mso-level-text:\F06C;
+mso-level-tab-stop:18.0000pt;
 mso-level-number-position:left;
-margin-left:60.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+margin-left:18.0000pt;text-indent:-18.0000pt;font-family:Wingdings;}
 
 @list l15:level2{
 mso-level-number-format:decimal;
@@ -789,9 +789,9 @@ margin-left:324.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
 mso-level-number-format:bullet;
 mso-level-suffix:tab;
 mso-level-text:\F06C;
-mso-level-tab-stop:39.0000pt;
+mso-level-tab-stop:60.0000pt;
 mso-level-number-position:left;
-margin-left:39.0000pt;text-indent:-18.0000pt;font-family:Wingdings;}
+margin-left:60.0000pt;text-indent:-18.0000pt;font-family:Wingdings;}
 
 @list l16:level2{
 mso-level-number-format:decimal;
@@ -858,12 +858,12 @@ mso-level-number-position:left;
 margin-left:324.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
 
 @list l17:level1{
-mso-level-number-format:bullet;
+mso-level-number-format:decimal;
 mso-level-suffix:tab;
-mso-level-text:\F06C;
-mso-level-tab-stop:102.0000pt;
+mso-level-text:"%1.";
+mso-level-tab-stop:60.0000pt;
 mso-level-number-position:left;
-margin-left:102.0000pt;text-indent:-18.0000pt;font-family:Wingdings;}
+margin-left:60.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
 
 @list l17:level2{
 mso-level-number-format:decimal;
@@ -930,12 +930,12 @@ mso-level-number-position:left;
 margin-left:324.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
 
 @list l18:level1{
-mso-level-number-format:decimal;
+mso-level-number-format:bullet;
 mso-level-suffix:tab;
-mso-level-text:"%1.";
-mso-level-tab-stop:81.0000pt;
+mso-level-text:\F06C;
+mso-level-tab-stop:39.0000pt;
 mso-level-number-position:left;
-margin-left:81.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+margin-left:39.0000pt;text-indent:-18.0000pt;font-family:Wingdings;}
 
 @list l18:level2{
 mso-level-number-format:decimal;
@@ -1002,12 +1002,12 @@ mso-level-number-position:left;
 margin-left:324.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
 
 @list l19:level1{
-mso-level-number-format:decimal;
+mso-level-number-format:bullet;
 mso-level-suffix:tab;
-mso-level-text:"%1.";
+mso-level-text:\F06C;
 mso-level-tab-stop:102.0000pt;
 mso-level-number-position:left;
-margin-left:102.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+margin-left:102.0000pt;text-indent:-18.0000pt;font-family:Wingdings;}
 
 @list l19:level2{
 mso-level-number-format:decimal;
@@ -1066,6 +1066,726 @@ mso-level-number-position:left;
 margin-left:288.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
 
 @list l19:level9{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%9.";
+mso-level-tab-stop:324.0000pt;
+mso-level-number-position:left;
+margin-left:324.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l20:level1{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%1.";
+mso-level-tab-stop:81.0000pt;
+mso-level-number-position:left;
+margin-left:81.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l20:level2{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%2.";
+mso-level-tab-stop:72.0000pt;
+mso-level-number-position:left;
+margin-left:72.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l20:level3{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%3.";
+mso-level-tab-stop:108.0000pt;
+mso-level-number-position:left;
+margin-left:108.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l20:level4{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%4.";
+mso-level-tab-stop:144.0000pt;
+mso-level-number-position:left;
+margin-left:144.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l20:level5{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%5.";
+mso-level-tab-stop:180.0000pt;
+mso-level-number-position:left;
+margin-left:180.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l20:level6{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%6.";
+mso-level-tab-stop:216.0000pt;
+mso-level-number-position:left;
+margin-left:216.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l20:level7{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%7.";
+mso-level-tab-stop:252.0000pt;
+mso-level-number-position:left;
+margin-left:252.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l20:level8{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%8.";
+mso-level-tab-stop:288.0000pt;
+mso-level-number-position:left;
+margin-left:288.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l20:level9{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%9.";
+mso-level-tab-stop:324.0000pt;
+mso-level-number-position:left;
+margin-left:324.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l21:level1{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%1.";
+mso-level-tab-stop:102.0000pt;
+mso-level-number-position:left;
+margin-left:102.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l21:level2{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%2.";
+mso-level-tab-stop:72.0000pt;
+mso-level-number-position:left;
+margin-left:72.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l21:level3{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%3.";
+mso-level-tab-stop:108.0000pt;
+mso-level-number-position:left;
+margin-left:108.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l21:level4{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%4.";
+mso-level-tab-stop:144.0000pt;
+mso-level-number-position:left;
+margin-left:144.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l21:level5{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%5.";
+mso-level-tab-stop:180.0000pt;
+mso-level-number-position:left;
+margin-left:180.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l21:level6{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%6.";
+mso-level-tab-stop:216.0000pt;
+mso-level-number-position:left;
+margin-left:216.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l21:level7{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%7.";
+mso-level-tab-stop:252.0000pt;
+mso-level-number-position:left;
+margin-left:252.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l21:level8{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%8.";
+mso-level-tab-stop:288.0000pt;
+mso-level-number-position:left;
+margin-left:288.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l21:level9{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%9.";
+mso-level-tab-stop:324.0000pt;
+mso-level-number-position:left;
+margin-left:324.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l22:level1{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%1.";
+mso-level-tab-stop:18.0000pt;
+mso-level-number-position:left;
+margin-left:18.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l22:level2{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%2.";
+mso-level-tab-stop:72.0000pt;
+mso-level-number-position:left;
+margin-left:72.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l22:level3{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%3.";
+mso-level-tab-stop:108.0000pt;
+mso-level-number-position:left;
+margin-left:108.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l22:level4{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%4.";
+mso-level-tab-stop:144.0000pt;
+mso-level-number-position:left;
+margin-left:144.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l22:level5{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%5.";
+mso-level-tab-stop:180.0000pt;
+mso-level-number-position:left;
+margin-left:180.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l22:level6{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%6.";
+mso-level-tab-stop:216.0000pt;
+mso-level-number-position:left;
+margin-left:216.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l22:level7{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%7.";
+mso-level-tab-stop:252.0000pt;
+mso-level-number-position:left;
+margin-left:252.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l22:level8{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%8.";
+mso-level-tab-stop:288.0000pt;
+mso-level-number-position:left;
+margin-left:288.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l22:level9{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%9.";
+mso-level-tab-stop:324.0000pt;
+mso-level-number-position:left;
+margin-left:324.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l23:level1{
+mso-level-number-format:bullet;
+mso-level-suffix:tab;
+mso-level-text:\F06C;
+mso-level-tab-stop:18.0000pt;
+mso-level-number-position:left;
+margin-left:18.0000pt;text-indent:-18.0000pt;font-family:Wingdings;}
+
+@list l23:level2{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%2.";
+mso-level-tab-stop:72.0000pt;
+mso-level-number-position:left;
+margin-left:72.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l23:level3{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%3.";
+mso-level-tab-stop:108.0000pt;
+mso-level-number-position:left;
+margin-left:108.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l23:level4{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%4.";
+mso-level-tab-stop:144.0000pt;
+mso-level-number-position:left;
+margin-left:144.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l23:level5{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%5.";
+mso-level-tab-stop:180.0000pt;
+mso-level-number-position:left;
+margin-left:180.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l23:level6{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%6.";
+mso-level-tab-stop:216.0000pt;
+mso-level-number-position:left;
+margin-left:216.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l23:level7{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%7.";
+mso-level-tab-stop:252.0000pt;
+mso-level-number-position:left;
+margin-left:252.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l23:level8{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%8.";
+mso-level-tab-stop:288.0000pt;
+mso-level-number-position:left;
+margin-left:288.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l23:level9{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%9.";
+mso-level-tab-stop:324.0000pt;
+mso-level-number-position:left;
+margin-left:324.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l24:level1{
+mso-level-number-format:bullet;
+mso-level-suffix:tab;
+mso-level-text:\F06C;
+mso-level-tab-stop:60.0000pt;
+mso-level-number-position:left;
+margin-left:60.0000pt;text-indent:-18.0000pt;font-family:Wingdings;}
+
+@list l24:level2{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%2.";
+mso-level-tab-stop:72.0000pt;
+mso-level-number-position:left;
+margin-left:72.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l24:level3{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%3.";
+mso-level-tab-stop:108.0000pt;
+mso-level-number-position:left;
+margin-left:108.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l24:level4{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%4.";
+mso-level-tab-stop:144.0000pt;
+mso-level-number-position:left;
+margin-left:144.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l24:level5{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%5.";
+mso-level-tab-stop:180.0000pt;
+mso-level-number-position:left;
+margin-left:180.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l24:level6{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%6.";
+mso-level-tab-stop:216.0000pt;
+mso-level-number-position:left;
+margin-left:216.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l24:level7{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%7.";
+mso-level-tab-stop:252.0000pt;
+mso-level-number-position:left;
+margin-left:252.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l24:level8{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%8.";
+mso-level-tab-stop:288.0000pt;
+mso-level-number-position:left;
+margin-left:288.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l24:level9{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%9.";
+mso-level-tab-stop:324.0000pt;
+mso-level-number-position:left;
+margin-left:324.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l25:level1{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%1.";
+mso-level-tab-stop:60.0000pt;
+mso-level-number-position:left;
+margin-left:60.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l25:level2{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%2.";
+mso-level-tab-stop:72.0000pt;
+mso-level-number-position:left;
+margin-left:72.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l25:level3{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%3.";
+mso-level-tab-stop:108.0000pt;
+mso-level-number-position:left;
+margin-left:108.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l25:level4{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%4.";
+mso-level-tab-stop:144.0000pt;
+mso-level-number-position:left;
+margin-left:144.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l25:level5{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%5.";
+mso-level-tab-stop:180.0000pt;
+mso-level-number-position:left;
+margin-left:180.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l25:level6{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%6.";
+mso-level-tab-stop:216.0000pt;
+mso-level-number-position:left;
+margin-left:216.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l25:level7{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%7.";
+mso-level-tab-stop:252.0000pt;
+mso-level-number-position:left;
+margin-left:252.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l25:level8{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%8.";
+mso-level-tab-stop:288.0000pt;
+mso-level-number-position:left;
+margin-left:288.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l25:level9{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%9.";
+mso-level-tab-stop:324.0000pt;
+mso-level-number-position:left;
+margin-left:324.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l26:level1{
+mso-level-number-format:bullet;
+mso-level-suffix:tab;
+mso-level-text:\F06C;
+mso-level-tab-stop:39.0000pt;
+mso-level-number-position:left;
+margin-left:39.0000pt;text-indent:-18.0000pt;font-family:Wingdings;}
+
+@list l26:level2{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%2.";
+mso-level-tab-stop:72.0000pt;
+mso-level-number-position:left;
+margin-left:72.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l26:level3{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%3.";
+mso-level-tab-stop:108.0000pt;
+mso-level-number-position:left;
+margin-left:108.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l26:level4{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%4.";
+mso-level-tab-stop:144.0000pt;
+mso-level-number-position:left;
+margin-left:144.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l26:level5{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%5.";
+mso-level-tab-stop:180.0000pt;
+mso-level-number-position:left;
+margin-left:180.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l26:level6{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%6.";
+mso-level-tab-stop:216.0000pt;
+mso-level-number-position:left;
+margin-left:216.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l26:level7{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%7.";
+mso-level-tab-stop:252.0000pt;
+mso-level-number-position:left;
+margin-left:252.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l26:level8{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%8.";
+mso-level-tab-stop:288.0000pt;
+mso-level-number-position:left;
+margin-left:288.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l26:level9{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%9.";
+mso-level-tab-stop:324.0000pt;
+mso-level-number-position:left;
+margin-left:324.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l27:level1{
+mso-level-number-format:bullet;
+mso-level-suffix:tab;
+mso-level-text:\F06C;
+mso-level-tab-stop:102.0000pt;
+mso-level-number-position:left;
+margin-left:102.0000pt;text-indent:-18.0000pt;font-family:Wingdings;}
+
+@list l27:level2{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%2.";
+mso-level-tab-stop:72.0000pt;
+mso-level-number-position:left;
+margin-left:72.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l27:level3{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%3.";
+mso-level-tab-stop:108.0000pt;
+mso-level-number-position:left;
+margin-left:108.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l27:level4{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%4.";
+mso-level-tab-stop:144.0000pt;
+mso-level-number-position:left;
+margin-left:144.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l27:level5{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%5.";
+mso-level-tab-stop:180.0000pt;
+mso-level-number-position:left;
+margin-left:180.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l27:level6{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%6.";
+mso-level-tab-stop:216.0000pt;
+mso-level-number-position:left;
+margin-left:216.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l27:level7{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%7.";
+mso-level-tab-stop:252.0000pt;
+mso-level-number-position:left;
+margin-left:252.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l27:level8{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%8.";
+mso-level-tab-stop:288.0000pt;
+mso-level-number-position:left;
+margin-left:288.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l27:level9{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%9.";
+mso-level-tab-stop:324.0000pt;
+mso-level-number-position:left;
+margin-left:324.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l28:level1{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%1.";
+mso-level-tab-stop:81.0000pt;
+mso-level-number-position:left;
+margin-left:81.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l28:level2{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%2.";
+mso-level-tab-stop:72.0000pt;
+mso-level-number-position:left;
+margin-left:72.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l28:level3{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%3.";
+mso-level-tab-stop:108.0000pt;
+mso-level-number-position:left;
+margin-left:108.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l28:level4{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%4.";
+mso-level-tab-stop:144.0000pt;
+mso-level-number-position:left;
+margin-left:144.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l28:level5{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%5.";
+mso-level-tab-stop:180.0000pt;
+mso-level-number-position:left;
+margin-left:180.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l28:level6{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%6.";
+mso-level-tab-stop:216.0000pt;
+mso-level-number-position:left;
+margin-left:216.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l28:level7{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%7.";
+mso-level-tab-stop:252.0000pt;
+mso-level-number-position:left;
+margin-left:252.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l28:level8{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%8.";
+mso-level-tab-stop:288.0000pt;
+mso-level-number-position:left;
+margin-left:288.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l28:level9{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%9.";
+mso-level-tab-stop:324.0000pt;
+mso-level-number-position:left;
+margin-left:324.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l29:level1{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%1.";
+mso-level-tab-stop:102.0000pt;
+mso-level-number-position:left;
+margin-left:102.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l29:level2{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%2.";
+mso-level-tab-stop:72.0000pt;
+mso-level-number-position:left;
+margin-left:72.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l29:level3{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%3.";
+mso-level-tab-stop:108.0000pt;
+mso-level-number-position:left;
+margin-left:108.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l29:level4{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%4.";
+mso-level-tab-stop:144.0000pt;
+mso-level-number-position:left;
+margin-left:144.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l29:level5{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%5.";
+mso-level-tab-stop:180.0000pt;
+mso-level-number-position:left;
+margin-left:180.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l29:level6{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%6.";
+mso-level-tab-stop:216.0000pt;
+mso-level-number-position:left;
+margin-left:216.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l29:level7{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%7.";
+mso-level-tab-stop:252.0000pt;
+mso-level-number-position:left;
+margin-left:252.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l29:level8{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%8.";
+mso-level-tab-stop:288.0000pt;
+mso-level-number-position:left;
+margin-left:288.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l29:level9{
 mso-level-number-format:decimal;
 mso-level-suffix:tab;
 mso-level-text:"%9.";
@@ -1203,6 +1923,17 @@ span.18{
 font-family:'Times New Roman';
 }
 
+span.19{
+font-family:'Times New Roman';
+}
+
+span.20{
+font-family:'Times New Roman';
+color:rgb(0,0,255);
+text-decoration:underline;
+text-underline:single;
+}
+
 p.p{
 mso-style-name:"普通\(网站\)";
 margin-top:5.0000pt;
@@ -1228,7 +1959,41 @@ font-family:宋体;
 font-size:12.0000pt;
 }
 
-p.NewStyle21{
+p.NewStyle23{
+mso-style-name:yelline;
+margin-top:7.2000pt;
+margin-right:0.0000pt;
+margin-bottom:0.0000pt;
+margin-left:0.0000pt;
+text-align:left;
+font-family:宋体;
+font-size:0.5000pt;
+}
+
+p.NewStyle24{
+mso-style-name:btnbox;
+margin-top:0.0000pt;
+margin-right:0.0000pt;
+margin-bottom:0.0000pt;
+margin-left:0.0000pt;
+text-align:left;
+font-family:宋体;
+font-size:12.0000pt;
+}
+
+p.NewStyle25{
+mso-style-name:space-left;
+margin-top:0.0000pt;
+margin-right:0.0000pt;
+margin-bottom:0.0000pt;
+margin-left:0.0000pt;
+padding:0pt 0pt 0pt 0pt ;
+text-align:left;
+font-family:宋体;
+font-size:12.0000pt;
+}
+
+p.NewStyle26{
 mso-style-name:clicktext;
 margin-top:0.0000pt;
 margin-right:0.0000pt;
@@ -1240,7 +2005,60 @@ color:rgb(0,78,156);
 font-size:12.0000pt;
 }
 
-p.NewStyle22{
+p.NewStyle27{
+mso-style-name:space;
+margin-top:0.0000pt;
+margin-right:0.0000pt;
+margin-bottom:0.0000pt;
+margin-left:0.0000pt;
+padding:0pt 0pt 0pt 0pt ;
+text-align:left;
+font-family:宋体;
+font-size:12.0000pt;
+}
+
+p.NewStyle28{
+mso-style-name:btnbox-yelbtn;
+margin-top:0.0000pt;
+margin-right:0.0000pt;
+margin-bottom:0.0000pt;
+margin-left:0.0000pt;
+border-bottom:1.5000pt solid rgb(229,77,0);
+mso-border-bottom-alt:1.5000pt solid rgb(229,77,0);
+padding:0pt 0pt 3pt 0pt ;
+text-align:left;
+background:rgb(235,97,0);
+font-family:微软雅黑;
+color:rgb(255,255,255);
+font-size:12.0000pt;
+}
+
+p.NewStyle29{
+mso-style-name:btnbox-mid;
+margin-top:0.0000pt;
+margin-right:0.0000pt;
+margin-bottom:0.0000pt;
+margin-left:0.0000pt;
+text-align:center;
+font-family:宋体;
+font-size:12.0000pt;
+}
+
+p.NewStyle30{
+mso-style-name:"普通\(网站\) Char";
+margin-top:5.0000pt;
+margin-right:0.0000pt;
+margin-bottom:5.0000pt;
+margin-left:0.0000pt;
+mso-margin-top-alt:auto;
+mso-margin-bottom-alt:auto;
+text-align:left;
+font-family:宋体;
+color:rgb(0,0,0);
+font-size:7.0000pt;
+}
+
+p.NewStyle31{
 mso-style-name:footercont;
 margin-top:0.0000pt;
 margin-right:0.0000pt;
@@ -1257,32 +2075,7 @@ color:rgb(163,164,169);
 font-size:12.0000pt;
 }
 
-p.NewStyle23{
-mso-style-name:yelline;
-margin-top:7.2000pt;
-margin-right:0.0000pt;
-margin-bottom:0.0000pt;
-margin-left:0.0000pt;
-text-align:left;
-font-family:宋体;
-font-size:0.5000pt;
-}
-
-p.NewStyle24{
-mso-style-name:"普通\(网站\) Char";
-margin-top:5.0000pt;
-margin-right:0.0000pt;
-margin-bottom:5.0000pt;
-margin-left:0.0000pt;
-mso-margin-top-alt:auto;
-mso-margin-bottom-alt:auto;
-text-align:left;
-font-family:宋体;
-color:rgb(0,0,0);
-font-size:7.0000pt;
-}
-
-p.NewStyle25{
+p.NewStyle32{
 mso-style-name:"HTML 预设格式 Char";
 margin-top:0.0000pt;
 margin-right:0.0000pt;
@@ -1290,68 +2083,6 @@ margin-bottom:0.0000pt;
 margin-left:0.0000pt;
 text-align:left;
 font-family:宋体;
-font-size:12.0000pt;
-}
-
-p.NewStyle26{
-mso-style-name:space;
-margin-top:0.0000pt;
-margin-right:0.0000pt;
-margin-bottom:0.0000pt;
-margin-left:0.0000pt;
-padding:0pt 0pt 0pt 0pt ;
-text-align:left;
-font-family:宋体;
-font-size:12.0000pt;
-}
-
-p.NewStyle27{
-mso-style-name:btnbox-mid;
-margin-top:0.0000pt;
-margin-right:0.0000pt;
-margin-bottom:0.0000pt;
-margin-left:0.0000pt;
-text-align:center;
-font-family:宋体;
-font-size:12.0000pt;
-}
-
-p.NewStyle28{
-mso-style-name:btnbox;
-margin-top:0.0000pt;
-margin-right:0.0000pt;
-margin-bottom:0.0000pt;
-margin-left:0.0000pt;
-text-align:left;
-font-family:宋体;
-font-size:12.0000pt;
-}
-
-p.NewStyle29{
-mso-style-name:space-left;
-margin-top:0.0000pt;
-margin-right:0.0000pt;
-margin-bottom:0.0000pt;
-margin-left:0.0000pt;
-padding:0pt 0pt 0pt 0pt ;
-text-align:left;
-font-family:宋体;
-font-size:12.0000pt;
-}
-
-p.NewStyle30{
-mso-style-name:btnbox-yelbtn;
-margin-top:0.0000pt;
-margin-right:0.0000pt;
-margin-bottom:0.0000pt;
-margin-left:0.0000pt;
-border-bottom:1.5000pt solid rgb(229,77,0);
-mso-border-bottom-alt:1.5000pt solid rgb(229,77,0);
-padding:0pt 0pt 3pt 0pt ;
-text-align:left;
-background:rgb(235,97,0);
-font-family:微软雅黑;
-color:rgb(255,255,255);
 font-size:12.0000pt;
 }
 
@@ -1390,4 +2121,4 @@ mso-bidi-language:#0400;
 	mso-page-border-surround-footer:no;}@page Section0{
 size:595.3500pt 841.9500pt;
 }
-div.Section0{page:Section0;}</style></head><body style="tab-interval:21pt;" ><!--StartFragment--><div class="Section0" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,0,0);display:none;mso-hide:all;font-size:7.0000pt;mso-font-kerning:0.0000pt;" >ID:JR321347040R90250000000</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;display:none;mso-hide:all;font-size:12.0000pt;mso-font-kerning:0.0000pt;" >&nbsp;</span><span style="mso-spacerun:'yes';font-family:宋体;display:none;mso-hide:all;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><table class=MsoNormalTable  align=center  style="border-collapse:collapse;width:384.0000pt;margin-left:10.8000pt;mso-padding-alt:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><tr><td width=640  valign=center  style="width:384.0500pt;padding:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><table class=MsoNormalTable  align=center  style="border-collapse:collapse;width:384.0000pt;margin-left:10.8000pt;mso-padding-alt:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><tr><td width=640  valign=center  style="width:384.0000pt;padding:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><table class=MsoNormalTable  align=center  style="border-collapse:collapse;width:360.0000pt;margin-left:10.8000pt;mso-padding-alt:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><tr style="height:6.0500pt;" ><td width=600  valign=center  colspan=3  style="width:360.0000pt;padding:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;" ><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p></td></tr><tr><td width=445  valign=top  style="width:267.4000pt;padding:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><table class=MsoNormalTable  style="border-collapse:collapse;width:100.0000%;margin-left:10.8000pt;mso-padding-alt:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><tr style="height:30.0000pt;" ><td width=445  valign=center  style="width:267.4000pt;padding:0.0000pt 0.0000pt 0.0000pt 7.2000pt ;" ><p class=MsoNormal  style="word-break:break-all;mso-pagination:widow-orphan;text-align:left;line-height:30.0000pt;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(51,51,51);font-size:13.0000pt;mso-font-kerning:0.0000pt;" >谢冠男</span><span style="font-family:微软雅黑;color:rgb(51,51,51);font-size:13.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr><tr style="height:18.0000pt;" ><td width=445  valign=center  style="width:267.4000pt;padding:0.0000pt 0.0000pt 0.0000pt 7.2000pt ;" ><p class=MsoNormal  style="word-break:break-all;mso-pagination:widow-orphan;text-align:left;line-height:14.4000pt;" ><b><span style="font-family:宋体;color:rgb(0,0,0);font-weight:bold;font-size:7.0000pt;mso-font-kerning:0.0000pt;" >男</span></b><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" >|</span><b><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,0,0);font-weight:bold;font-size:7.0000pt;mso-font-kerning:0.0000pt;" >5年工作经验</span></b><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" >|</span><b><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,0,0);font-weight:bold;font-size:7.0000pt;mso-font-kerning:0.0000pt;" >1987年12月</span></b><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" >|</span><b><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,0,0);font-weight:bold;font-size:7.0000pt;mso-font-kerning:0.0000pt;" >已婚</span></b><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><br></span><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" >现居住于北京|本科</span><span class="16"  style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;" >|</span><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" >&#160;</span><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><br></span><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" >手机：18610933252</span><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><br></span><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" >E-mail：</span><span style="font-family:宋体;font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><a href="mailto:101002552@qq.com" >101002552@qq.com</a></span><o:p></o:p></p></td></tr></table><p class=MsoNormal  style="word-break:break-all;mso-pagination:widow-orphan;line-height:14.4000pt;" ><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p></td><td width=148  valign=center  style="width:89.1500pt;padding:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;line-height:12.0000pt;" ><span style="font-family:宋体;font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><a href="http://mypics.zhaopin.com/pic/2013/7/30/472AA52072FE485C8CE3C069FB27870E.jpg" ><span style="font-family:宋体;font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><img width="149"  height="163"  src="JR321347040R90250000000.files/JR321347040R90250000000381.png" ></span></a></span><o:p></o:p></p></td><td width=5  valign=center  style="width:3.4500pt;padding:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;" ><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p></td></tr><tr style="height:6.0500pt;" ><td width=600  valign=center  colspan=3  style="width:360.0000pt;padding:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;" ><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p></td></tr></table><p class=MsoNormal  style="mso-pagination:widow-orphan;line-height:12.0000pt;" ><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p></td></tr><tr style="height:6.0500pt;" ><td width=640  valign=center  style="width:384.0000pt;padding:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;" ><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p></td></tr><tr><td width=640  valign=center  style="width:384.0000pt;padding:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><table class=MsoNormalTable  align=center  style="border-collapse:collapse;width:360.0000pt;margin-left:10.8000pt;mso-padding-alt:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><tr><td width=600  valign=center  style="width:360.0500pt;padding:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><table class=MsoNormalTable  style="border-collapse:collapse;width:360.0000pt;margin-left:10.8000pt;mso-padding-alt:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><tr><td width=600  valign=center  style="width:360.0000pt;padding:0.0000pt 0.0000pt 0.0000pt 3.0000pt ;border-left:1.0000pt solid rgb(235,235,235);mso-border-left-alt:0.5000pt solid rgb(235,235,235);border-right:1.0000pt solid rgb(235,235,235);mso-border-right-alt:0.5000pt solid rgb(235,235,235);border-top:1.0000pt solid rgb(235,235,235);mso-border-top-alt:0.5000pt solid rgb(235,235,235);border-bottom:1.0000pt solid rgb(235,235,235);mso-border-bottom-alt:0.5000pt solid rgb(235,235,235);background:rgb(66,155,216);" ><p class=MsoNormal  style="word-break:break-all;mso-pagination:widow-orphan;text-align:left;line-height:12.0000pt;" ><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(255,255,255);font-size:8.0000pt;mso-font-kerning:0.0000pt;" >自我评价</span><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr></table><p class=MsoNormal  style="mso-pagination:widow-orphan;" ><span style="font-family:宋体;display:none;mso-hide:all;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p><table class=MsoNormalTable  style="border-collapse:collapse;width:360.0000pt;margin-left:10.8000pt;mso-padding-alt:0.7500pt 0.7500pt 0.7500pt 0.7500pt ;" ><tr style="height:3.0000pt;" ><td width=600  valign=center  style="width:360.0000pt;padding:0.7500pt 0.7500pt 0.7500pt 0.7500pt ;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;" ><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p></td></tr><tr><td width=600  valign=center  style="width:360.0000pt;padding:0.7500pt 0.7500pt 0.7500pt 7.2000pt ;" ><p class=MsoNormal  style="word-break:break-all;mso-pagination:widow-orphan;text-align:left;line-height:12.0000pt;" ><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" >五年JAVA开发经验，熟练使用常见前后端开发框架，如SSH,SpringMVC,mybatis,Redis,Activiti等，前端</span><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><br></span><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" >Angularjs,Bootstrap,JqueryUI等常见框架和插件，熟悉数据库，能够编写存储过程等，熟悉Linux及BashShell脚本，此外对分布式系统、设计模式、JVM、网站架构有一定的了解。此外，因为我个人的规划，我只考虑互联网相关企业，其他一律不考虑，请谅解。本人简历也可通过github免费获取，请移步这里，http://yeluosc.github.io</span><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr><tr style="height:3.0000pt;" ><td width=600  valign=center  style="width:360.0000pt;padding:0.7500pt 0.7500pt 0.7500pt 0.7500pt ;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;line-height:12.0000pt;" ><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p></td></tr><tr style="height:3.0000pt;" ><td width=600  valign=center  style="width:360.0000pt;padding:0.7500pt 0.7500pt 0.7500pt 0.7500pt ;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;" ><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p></td></tr></table><p class=MsoNormal  style="mso-pagination:widow-orphan;line-height:12.0000pt;" ><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p></td></tr></table><p class=MsoNormal  style="word-break:break-all;mso-pagination:widow-orphan;line-height:12.0000pt;" ><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p></td></tr><tr><td width=640  valign=center  style="width:384.0000pt;padding:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;line-height:12.0000pt;" ><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p><table class=MsoNormalTable  align=center  style="border-collapse:collapse;width:360.0000pt;margin-left:10.8000pt;mso-padding-alt:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><tr><td width=600  valign=center  style="width:360.0000pt;padding:0.0000pt 0.0000pt 0.0000pt 3.0000pt ;border-left:1.0000pt solid rgb(235,235,235);mso-border-left-alt:0.5000pt solid rgb(235,235,235);border-right:1.0000pt solid rgb(235,235,235);mso-border-right-alt:0.5000pt solid rgb(235,235,235);border-top:1.0000pt solid rgb(235,235,235);mso-border-top-alt:0.5000pt solid rgb(235,235,235);border-bottom:1.0000pt solid rgb(235,235,235);mso-border-bottom-alt:0.5000pt solid rgb(235,235,235);background:rgb(66,155,216);" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;line-height:12.0000pt;" ><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(255,255,255);font-size:8.0000pt;mso-font-kerning:0.0000pt;" >求职意向</span><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr></table><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;" ><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p><table class=MsoNormalTable  align=center  style="border-collapse:collapse;width:360.0000pt;margin-left:10.8000pt;mso-padding-alt:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><tr><td width=100  valign=top  style="width:60.0000pt;padding:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><p class=NewStyle24  align=right  style="mso-pagination:widow-orphan;text-align:right;line-height:12.0000pt;" ><b><span style="mso-spacerun:'yes';font-family:新宋体;color:rgb(0,0,0);font-weight:bold;font-size:7.0000pt;mso-font-kerning:0.0000pt;" >目前状况：</span></b><b><span style="font-family:新宋体;color:rgb(0,0,0);font-weight:bold;font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></b></p></td><td width=500  valign=top  style="width:300.0000pt;padding:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><p class=MsoNormal  style="word-break:break-all;mso-pagination:widow-orphan;text-align:left;line-height:12.0000pt;" ><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(51,51,51);font-size:7.0000pt;mso-font-kerning:0.0000pt;" >我目前处于离职状态，可立即上岗</span><span style="font-family:宋体;color:rgb(51,51,51);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr></table><p class=MsoNormal  style="word-break:break-all;mso-pagination:widow-orphan;line-height:12.0000pt;" ><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p></td></tr><tr><td width=640  valign=center  style="width:384.0000pt;padding:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;line-height:12.0000pt;" ><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p><table class=MsoNormalTable  align=center  style="border-collapse:collapse;width:360.0000pt;margin-left:10.8000pt;mso-padding-alt:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><tr><td width=600  valign=center  style="width:360.0000pt;padding:0.0000pt 0.0000pt 0.0000pt 3.0000pt ;border-left:1.0000pt solid rgb(235,235,235);mso-border-left-alt:0.5000pt solid rgb(235,235,235);border-right:1.0000pt solid rgb(235,235,235);mso-border-right-alt:0.5000pt solid rgb(235,235,235);border-top:1.0000pt solid rgb(235,235,235);mso-border-top-alt:0.5000pt solid rgb(235,235,235);border-bottom:1.0000pt solid rgb(235,235,235);mso-border-bottom-alt:0.5000pt solid rgb(235,235,235);background:rgb(66,155,216);" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;line-height:12.0000pt;" ><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(255,255,255);font-size:8.0000pt;mso-font-kerning:0.0000pt;" >工作经历</span><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr></table><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;" ><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p><table class=MsoNormalTable  align=center  style="border-collapse:collapse;width:360.0000pt;margin-left:10.8000pt;mso-padding-alt:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><tr><td width=600  valign=center  style="width:360.0000pt;padding:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><table class=MsoNormalTable  style="border-collapse:collapse;margin-left:10.8000pt;mso-padding-alt:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><tr style="height:13.2000pt;" ><td width=132  valign=center  style="width:79.2000pt;padding:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><p class=NewStyle24  align=right  style="word-break:break-all;mso-pagination:widow-orphan;text-align:right;line-height:12.0000pt;" ><b><span style="mso-spacerun:'yes';font-family:新宋体;color:rgb(0,0,0);font-weight:bold;font-size:7.0000pt;mso-font-kerning:0.0000pt;" >2014/09&nbsp;-&nbsp;至今&nbsp;</span></b><b><span style="font-family:新宋体;color:rgb(0,0,0);font-weight:bold;font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></b></p></td><td width=424  valign=center  style="width:254.4000pt;padding:0.0000pt 0.0000pt 0.0000pt 8.4000pt ;" ><p class=MsoNormal  style="word-break:break-all;mso-pagination:widow-orphan;text-align:left;line-height:12.0000pt;" ><b><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,0,0);font-weight:bold;font-size:7.0000pt;mso-font-kerning:0.0000pt;" >北京市太极华青信息系统有限公司产品开发部</span></b><b><span style="mso-spacerun:'yes';font-family:新宋体;color:rgb(0,0,0);font-weight:bold;font-size:7.0000pt;mso-font-kerning:0.0000pt;" >&nbsp;（1年8个月）&nbsp;</span></b><b><span style="font-family:宋体;color:rgb(0,0,0);font-weight:bold;font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></b></p></td></tr><tr style="height:13.2000pt;" ><td width=132  valign=center  style="width:79.2000pt;padding:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;" ><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p></td><td width=424  valign=center  style="width:254.4000pt;padding:0.0000pt 0.0000pt 0.0000pt 8.4000pt ;" ><p class=MsoNormal  style="word-break:break-all;mso-pagination:widow-orphan;text-align:left;line-height:12.0000pt;" ><b><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,0,0);font-weight:bold;font-size:7.0000pt;mso-font-kerning:0.0000pt;" >软件工程师</span></b><b><span style="mso-spacerun:'yes';font-family:新宋体;color:rgb(0,0,0);font-weight:bold;font-size:7.0000pt;mso-font-kerning:0.0000pt;" >|保密</span></b><b><span style="font-family:新宋体;color:rgb(0,0,0);font-weight:bold;font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></b></p></td></tr><tr style="height:13.2000pt;" ><td width=132  valign=center  style="width:79.2000pt;padding:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;" ><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p></td><td width=424  valign=center  style="width:254.4000pt;padding:0.0000pt 0.0000pt 0.0000pt 8.4000pt ;" ><p class=MsoNormal  style="word-break:break-all;mso-pagination:widow-orphan;text-align:left;line-height:12.0000pt;" ><span style="mso-spacerun:'yes';font-family:新宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" >计算机软件</span><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" >|&nbsp;企业性质：股份制企业|&nbsp;规模：1000-9999人</span><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr><tr style="height:13.2000pt;" ><td width=132  valign=center  style="width:79.2000pt;padding:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;" ><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p></td><td width=424  valign=center  style="width:254.4000pt;padding:0.0000pt 0.0000pt 0.0000pt 8.4000pt ;" ><p class=NewStyle24  style="word-break:break-all;mso-pagination:widow-orphan;line-height:12.0000pt;" ><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" >工作描述：1、根据产品开发经理分配的业务需求进行系统开发。</span><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr></table><p class=MsoNormal  style="word-break:break-all;mso-pagination:widow-orphan;line-height:12.0000pt;" ><span style="font-family:宋体;color:rgb(51,51,51);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p></td></tr><tr><td width=600  valign=center  style="width:360.0000pt;padding:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><table class=MsoNormalTable  style="border-collapse:collapse;margin-left:10.8000pt;mso-padding-alt:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><tr style="height:13.2000pt;" ><td width=132  valign=center  style="width:79.2000pt;padding:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><p class=NewStyle24  align=right  style="word-break:break-all;mso-pagination:widow-orphan;text-align:right;line-height:12.0000pt;" ><b><span style="mso-spacerun:'yes';font-family:新宋体;color:rgb(0,0,0);font-weight:bold;font-size:7.0000pt;mso-font-kerning:0.0000pt;" >2011/07&nbsp;-&nbsp;2014/09</span></b><b><span style="font-family:新宋体;color:rgb(0,0,0);font-weight:bold;font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></b></p></td><td width=424  valign=center  style="width:254.4000pt;padding:0.0000pt 0.0000pt 0.0000pt 8.4000pt ;" ><p class=MsoNormal  style="word-break:break-all;mso-pagination:widow-orphan;text-align:left;line-height:12.0000pt;" ><b><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,0,0);font-weight:bold;font-size:7.0000pt;mso-font-kerning:0.0000pt;" >首都信息发展股份有限公司</span></b><b><span style="mso-spacerun:'yes';font-family:新宋体;color:rgb(0,0,0);font-weight:bold;font-size:7.0000pt;mso-font-kerning:0.0000pt;" >&nbsp;（3年2个月）&nbsp;</span></b><b><span style="font-family:宋体;color:rgb(0,0,0);font-weight:bold;font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></b></p></td></tr><tr style="height:13.2000pt;" ><td width=132  valign=center  style="width:79.2000pt;padding:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;" ><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p></td><td width=424  valign=center  style="width:254.4000pt;padding:0.0000pt 0.0000pt 0.0000pt 8.4000pt ;" ><p class=MsoNormal  style="word-break:break-all;mso-pagination:widow-orphan;text-align:left;line-height:12.0000pt;" ><b><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,0,0);font-weight:bold;font-size:7.0000pt;mso-font-kerning:0.0000pt;" >软件工程师</span></b><b><span style="mso-spacerun:'yes';font-family:新宋体;color:rgb(0,0,0);font-weight:bold;font-size:7.0000pt;mso-font-kerning:0.0000pt;" >|保密</span></b><b><span style="font-family:新宋体;color:rgb(0,0,0);font-weight:bold;font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></b></p></td></tr><tr style="height:13.2000pt;" ><td width=132  valign=center  style="width:79.2000pt;padding:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;" ><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p></td><td width=424  valign=center  style="width:254.4000pt;padding:0.0000pt 0.0000pt 0.0000pt 8.4000pt ;" ><p class=MsoNormal  style="word-break:break-all;mso-pagination:widow-orphan;text-align:left;line-height:12.0000pt;" ><span style="mso-spacerun:'yes';font-family:新宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" >互联网/电子商务</span><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" >|&nbsp;企业性质：上市公司|&nbsp;规模：1000-9999人</span><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr><tr style="height:13.2000pt;" ><td width=132  valign=center  style="width:79.2000pt;padding:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;" ><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p></td><td width=424  valign=center  style="width:254.4000pt;padding:0.0000pt 0.0000pt 0.0000pt 8.4000pt ;" ><p class=NewStyle24  style="word-break:break-all;mso-pagination:widow-orphan;line-height:12.0000pt;" ><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" >工作描述：产后康复中心系统担任项目经理：</span><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><br></span><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" >1、负责信息系统的业务需求调研，梳理需求，完成用户需求列表；</span><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><br></span><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" >2、开发阶段，指导开发组组长业务，配合完成开发，同时，在开发阶段，负责少部分模块的开发工作。在该阶段定期回溯，确保符合业务需求，对于不确定的问题，积极联系客户，解决问题；</span><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><br></span><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" >3、测试阶段，配合测试组完成测试。对测试组进行业务培训，讲解业务流程及规则，追踪BUG，确保系统符合质量要求；</span><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><br></span><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" >4、部署阶段，部署业务系统后，向客户进行系统汇报，对新需求进行记录及分析。</span><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><br></span><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" >CRM系统中担任开发程序员：</span><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><br></span><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" >1、根据项目经理分配的开发任务，负责项目功能模块的开发。</span><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><br></span><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" >离职原因：开发团队领导离职，团队人员陆续离职，各方面工作不好开展</span><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr></table><p class=MsoNormal  style="word-break:break-all;mso-pagination:widow-orphan;line-height:12.0000pt;" ><span style="font-family:宋体;color:rgb(51,51,51);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p></td></tr></table><p class=MsoNormal  style="mso-pagination:widow-orphan;line-height:12.0000pt;" ><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p></td></tr><tr><td width=640  valign=center  style="width:384.0000pt;padding:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;line-height:12.0000pt;" ><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p><table class=MsoNormalTable  align=center  style="border-collapse:collapse;width:360.0000pt;margin-left:10.8000pt;mso-padding-alt:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><tr><td width=600  valign=center  style="width:360.0000pt;padding:0.0000pt 0.0000pt 0.0000pt 3.0000pt ;border-left:1.0000pt solid rgb(235,235,235);mso-border-left-alt:0.5000pt solid rgb(235,235,235);border-right:1.0000pt solid rgb(235,235,235);mso-border-right-alt:0.5000pt solid rgb(235,235,235);border-top:1.0000pt solid rgb(235,235,235);mso-border-top-alt:0.5000pt solid rgb(235,235,235);border-bottom:1.0000pt solid rgb(235,235,235);mso-border-bottom-alt:0.5000pt solid rgb(235,235,235);background:rgb(66,155,216);" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;line-height:12.0000pt;" ><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(255,255,255);font-size:8.0000pt;mso-font-kerning:0.0000pt;" >项目经验</span><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr></table><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;" ><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p><table class=MsoNormalTable  align=center  style="border-collapse:collapse;width:360.0000pt;margin-left:10.8000pt;mso-padding-alt:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><tr><td width=600  valign=center  style="width:360.0000pt;padding:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><table class=MsoNormalTable  style="border-collapse:collapse;margin-left:10.8000pt;mso-padding-alt:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><tr style="height:13.2000pt;" ><td width=132  valign=center  style="width:79.2000pt;padding:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><p class=NewStyle24  align=right  style="word-break:break-all;mso-pagination:widow-orphan;text-align:right;line-height:12.0000pt;" ><b><span style="mso-spacerun:'yes';font-family:新宋体;color:rgb(0,0,0);font-weight:bold;font-size:7.0000pt;mso-font-kerning:0.0000pt;" >2015/12&nbsp;-&nbsp;2016/04</span></b><b><span style="font-family:新宋体;color:rgb(0,0,0);font-weight:bold;font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></b></p></td><td width=424  valign=center  style="width:254.4000pt;padding:0.0000pt 0.0000pt 0.0000pt 8.4000pt ;" ><p class=MsoNormal  style="word-break:break-all;mso-pagination:widow-orphan;text-align:left;line-height:12.0000pt;" ><b><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,0,0);font-weight:bold;font-size:7.0000pt;mso-font-kerning:0.0000pt;" >通用单据系统</span></b><b><span style="font-family:宋体;color:rgb(0,0,0);font-weight:bold;font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></b></p></td></tr><tr style="height:13.2000pt;" ><td width=132  valign=center  style="width:79.2000pt;padding:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;" ><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p></td><td width=424  valign=center  style="width:254.4000pt;padding:0.0000pt 0.0000pt 0.0000pt 8.4000pt ;" ><p class=NewStyle24  style="word-break:break-all;mso-pagination:widow-orphan;line-height:12.0000pt;" ><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" >软件环境：Weblogic+Linux</span><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr><tr style="height:13.2000pt;" ><td width=132  valign=center  style="width:79.2000pt;padding:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;" ><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p></td><td width=424  valign=center  style="width:254.4000pt;padding:0.0000pt 0.0000pt 0.0000pt 8.4000pt ;" ><p class=NewStyle24  style="word-break:break-all;mso-pagination:widow-orphan;line-height:12.0000pt;" ><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" >责任描述：该项目是公司近期的一个新项目，本人担当该项目的项目经理；</span><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><br></span><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" >1、协调业务部，梳理需求，组织开发人员完成相应需求的开发，负责3名开发人员的工作安排；</span><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><br></span><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" >2、解决开发人员遇到的问题；</span><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><br></span><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" >3、技术以外，其他一些管理方面的事情；</span><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr><tr style="height:13.2000pt;" ><td width=132  valign=center  style="width:79.2000pt;padding:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;" ><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p></td><td width=424  valign=center  style="width:254.4000pt;padding:0.0000pt 0.0000pt 0.0000pt 8.4000pt ;" ><p class=NewStyle24  style="word-break:break-all;mso-pagination:widow-orphan;line-height:12.0000pt;" ><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" >项目简介：该项目也是公司通用产品下的一个子项目，我们扩展符合新的业务需求的子系统；</span><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><br></span><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" >项目业务简单描述，通过OA系统发送各种公文，公文下可以附带各种类型的单据，业务人员可以对单据中自定义的业务表进行录入，自动审核，公式计算等操作。业务表的种类有很多，比如有最常见的普通表格，有固定行列的表格，固定行的浮动表等等。</span><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr></table><p class=MsoNormal  style="word-break:break-all;mso-pagination:widow-orphan;line-height:12.0000pt;" ><span style="font-family:宋体;color:rgb(51,51,51);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p></td></tr><tr><td width=600  valign=center  style="width:360.0000pt;padding:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><table class=MsoNormalTable  style="border-collapse:collapse;margin-left:10.8000pt;mso-padding-alt:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><tr style="height:13.2000pt;" ><td width=132  valign=center  style="width:79.2000pt;padding:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><p class=NewStyle24  align=right  style="word-break:break-all;mso-pagination:widow-orphan;text-align:right;line-height:12.0000pt;" ><b><span style="mso-spacerun:'yes';font-family:新宋体;color:rgb(0,0,0);font-weight:bold;font-size:7.0000pt;mso-font-kerning:0.0000pt;" >2015/04&nbsp;-&nbsp;2016/05</span></b><b><span style="font-family:新宋体;color:rgb(0,0,0);font-weight:bold;font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></b></p></td><td width=424  valign=center  style="width:254.4000pt;padding:0.0000pt 0.0000pt 0.0000pt 8.4000pt ;" ><p class=MsoNormal  style="word-break:break-all;mso-pagination:widow-orphan;text-align:left;line-height:12.0000pt;" ><b><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,0,0);font-weight:bold;font-size:7.0000pt;mso-font-kerning:0.0000pt;" >数据库同步系统</span></b><b><span style="font-family:宋体;color:rgb(0,0,0);font-weight:bold;font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></b></p></td></tr><tr style="height:13.2000pt;" ><td width=132  valign=center  style="width:79.2000pt;padding:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;" ><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p></td><td width=424  valign=center  style="width:254.4000pt;padding:0.0000pt 0.0000pt 0.0000pt 8.4000pt ;" ><p class=NewStyle24  style="word-break:break-all;mso-pagination:widow-orphan;line-height:12.0000pt;" ><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" >软件环境：Weblogic+Oracle</span><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr><tr style="height:13.2000pt;" ><td width=132  valign=center  style="width:79.2000pt;padding:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;" ><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p></td><td width=424  valign=center  style="width:254.4000pt;padding:0.0000pt 0.0000pt 0.0000pt 8.4000pt ;" ><p class=NewStyle24  style="word-break:break-all;mso-pagination:widow-orphan;line-height:12.0000pt;" ><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" >开发工具：MyEclipse</span><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr><tr style="height:13.2000pt;" ><td width=132  valign=center  style="width:79.2000pt;padding:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;" ><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p></td><td width=424  valign=center  style="width:254.4000pt;padding:0.0000pt 0.0000pt 0.0000pt 8.4000pt ;" ><p class=NewStyle24  style="word-break:break-all;mso-pagination:widow-orphan;line-height:12.0000pt;" ><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" >责任描述：1、独自负责完成部门经理提出的业务需求的相关开发；</span><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><br></span><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" >2、熟悉源代码并发现代码结构不合理后，自觉并独自完成了整套系统的重构工作；</span><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><br></span><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" >3、对测试及实施人员提出的问题及修改意见进行修改。</span><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr><tr style="height:13.2000pt;" ><td width=132  valign=center  style="width:79.2000pt;padding:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;" ><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p></td><td width=424  valign=center  style="width:254.4000pt;padding:0.0000pt 0.0000pt 0.0000pt 8.4000pt ;" ><p class=NewStyle24  style="word-break:break-all;mso-pagination:widow-orphan;line-height:12.0000pt;" ><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" >项目简介：该项目用于两个物理数据库之间的表数据、表结构、视图、存储器、触发器的同步工作；在业务上主要体现在，上级部门给下级单位的下发数据库表上，这样就可以做到数据库的物理隔离，同时保持数据及结构上的同步，如中央通过该系统将数据、结构等同步给各省市的数据库，最后各省市又将填报的数据同步上报至中央数据库中；该系统难点在于CLOB,BLOB字段以及复杂业务逻辑的处理等一系列的问题处理上。</span><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><br></span><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><br></span><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" >后续：在完成第一版后，渐渐发现原版本的程序结构已经跟不上业务需求的变化，导致代码内部逻辑比较混乱，各个类之间关系复杂，每次修改都要花费大量时间，系统慢慢走向一条死胡同。之后，我利用三周的时间，重新梳理结构，运用设计模式将其重构了一套2.0版本的系统，将业务与通用代码进行了分离，业务变化点基本上都做了抽象，系统启动时自动加载开发者的实现；与此同时我又将各个类的职责划分更明确，使其符合OOP中最基础的SRP原则。我重构的这套系统目前完全适应业务的变化，而通用的部分又可以方便的运用在其他项目中，总之这套系统重构非常成功。</span><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr></table><p class=MsoNormal  style="word-break:break-all;mso-pagination:widow-orphan;line-height:12.0000pt;" ><span style="font-family:宋体;color:rgb(51,51,51);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p></td></tr><tr><td width=600  valign=center  style="width:360.0000pt;padding:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><table class=MsoNormalTable  style="border-collapse:collapse;margin-left:10.8000pt;mso-padding-alt:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><tr style="height:13.2000pt;" ><td width=132  valign=center  style="width:79.2000pt;padding:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><p class=NewStyle24  align=right  style="word-break:break-all;mso-pagination:widow-orphan;text-align:right;line-height:12.0000pt;" ><b><span style="mso-spacerun:'yes';font-family:新宋体;color:rgb(0,0,0);font-weight:bold;font-size:7.0000pt;mso-font-kerning:0.0000pt;" >2014/09&nbsp;-&nbsp;2016/05</span></b><b><span style="font-family:新宋体;color:rgb(0,0,0);font-weight:bold;font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></b></p></td><td width=424  valign=center  style="width:254.4000pt;padding:0.0000pt 0.0000pt 0.0000pt 8.4000pt ;" ><p class=MsoNormal  style="word-break:break-all;mso-pagination:widow-orphan;text-align:left;line-height:12.0000pt;" ><b><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,0,0);font-weight:bold;font-size:7.0000pt;mso-font-kerning:0.0000pt;" >预算综合管理系统</span></b><b><span style="font-family:宋体;color:rgb(0,0,0);font-weight:bold;font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></b></p></td></tr><tr style="height:13.2000pt;" ><td width=132  valign=center  style="width:79.2000pt;padding:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;" ><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p></td><td width=424  valign=center  style="width:254.4000pt;padding:0.0000pt 0.0000pt 0.0000pt 8.4000pt ;" ><p class=NewStyle24  style="word-break:break-all;mso-pagination:widow-orphan;line-height:12.0000pt;" ><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" >软件环境：Weblogic+Oracle</span><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr><tr style="height:13.2000pt;" ><td width=132  valign=center  style="width:79.2000pt;padding:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;" ><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p></td><td width=424  valign=center  style="width:254.4000pt;padding:0.0000pt 0.0000pt 0.0000pt 8.4000pt ;" ><p class=NewStyle24  style="word-break:break-all;mso-pagination:widow-orphan;line-height:12.0000pt;" ><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" >开发工具：MyEclipse</span><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr><tr style="height:13.2000pt;" ><td width=132  valign=center  style="width:79.2000pt;padding:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;" ><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p></td><td width=424  valign=center  style="width:254.4000pt;padding:0.0000pt 0.0000pt 0.0000pt 8.4000pt ;" ><p class=NewStyle24  style="word-break:break-all;mso-pagination:widow-orphan;line-height:12.0000pt;" ><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" >责任描述：1、该项目中，我主要负责工作流任务模块的代码开发及维护；</span><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr><tr style="height:13.2000pt;" ><td width=132  valign=center  style="width:79.2000pt;padding:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;" ><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p></td><td width=424  valign=center  style="width:254.4000pt;padding:0.0000pt 0.0000pt 0.0000pt 8.4000pt ;" ><p class=NewStyle24  style="word-break:break-all;mso-pagination:widow-orphan;line-height:12.0000pt;" ><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" >项目简介：该系统面向用户为中国财政部中央预算处。业务层面十分复杂，用最简单的话描述：每年中央预算处下达第二年的预算任务，由全国各个省、市、县根据中央下达的任务进行填报、审批，再按层级向上汇报，各级单位可以随时查看上报给本级单位的汇总数据。该项目是产品化项目，目前即将面向全国各财政部门推广，已经在中国财政部、陕西省财政厅等地方陆续上线。项目开发框架采用SSM+Dubbo，在系统架构上由公共平台提供基础服务，通过dubbo远程调用各个子系统服务，而前台使用一套公司自己研发的框架，类似EXT，与业务关联性很强。</span><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr></table><p class=MsoNormal  style="word-break:break-all;mso-pagination:widow-orphan;line-height:12.0000pt;" ><span style="font-family:宋体;color:rgb(51,51,51);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p></td></tr><tr><td width=600  valign=center  style="width:360.0000pt;padding:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><table class=MsoNormalTable  style="border-collapse:collapse;margin-left:10.8000pt;mso-padding-alt:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><tr style="height:13.2000pt;" ><td width=132  valign=center  style="width:79.2000pt;padding:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><p class=NewStyle24  align=right  style="word-break:break-all;mso-pagination:widow-orphan;text-align:right;line-height:12.0000pt;" ><b><span style="mso-spacerun:'yes';font-family:新宋体;color:rgb(0,0,0);font-weight:bold;font-size:7.0000pt;mso-font-kerning:0.0000pt;" >2011/07&nbsp;-&nbsp;2014/08</span></b><b><span style="font-family:新宋体;color:rgb(0,0,0);font-weight:bold;font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></b></p></td><td width=424  valign=center  style="width:254.4000pt;padding:0.0000pt 0.0000pt 0.0000pt 8.4000pt ;" ><p class=MsoNormal  style="word-break:break-all;mso-pagination:widow-orphan;text-align:left;line-height:12.0000pt;" ><b><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,0,0);font-weight:bold;font-size:7.0000pt;mso-font-kerning:0.0000pt;" >医疗CRM产品</span></b><b><span style="font-family:宋体;color:rgb(0,0,0);font-weight:bold;font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></b></p></td></tr><tr style="height:13.2000pt;" ><td width=132  valign=center  style="width:79.2000pt;padding:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;" ><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p></td><td width=424  valign=center  style="width:254.4000pt;padding:0.0000pt 0.0000pt 0.0000pt 8.4000pt ;" ><p class=NewStyle24  style="word-break:break-all;mso-pagination:widow-orphan;line-height:12.0000pt;" ><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" >开发工具：eclipse</span><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr><tr style="height:13.2000pt;" ><td width=132  valign=center  style="width:79.2000pt;padding:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;" ><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p></td><td width=424  valign=center  style="width:254.4000pt;padding:0.0000pt 0.0000pt 0.0000pt 8.4000pt ;" ><p class=NewStyle24  style="word-break:break-all;mso-pagination:widow-orphan;line-height:12.0000pt;" ><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" >责任描述：负责部分模块开发及相关数据库设计，包括问卷调查、行为规则设置、系统自动回访、呼叫中心及微信模块，以上模块全部独立完成开发。</span><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr><tr style="height:13.2000pt;" ><td width=132  valign=center  style="width:79.2000pt;padding:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;" ><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p></td><td width=424  valign=center  style="width:254.4000pt;padding:0.0000pt 0.0000pt 0.0000pt 8.4000pt ;" ><p class=NewStyle24  style="word-break:break-all;mso-pagination:widow-orphan;line-height:12.0000pt;" ><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" >项目简介：建设&#8220;数字化医院&#8221;是目前很多医疗机构提出的建院方针。系统的应用，对提高管理的动态性、有效性和科学性将发挥积极作用。在规范医疗机构业务流程的同时，很多医疗行业相关人士认识到建立以客户为中心的信息系统的重要性，使医院有效地管理客户资源，提供与客户沟通的统一平台，改变客户服务模式，提高采集客户反馈的频率和正确率，减少沟通环节，降低运营成本，发现新客户和机会，提高客户满意度和忠诚度，最终实现医院效益的提高。</span><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr></table><p class=MsoNormal  style="word-break:break-all;mso-pagination:widow-orphan;line-height:12.0000pt;" ><span style="font-family:宋体;color:rgb(51,51,51);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p></td></tr></table><p class=MsoNormal  style="word-break:break-all;mso-pagination:widow-orphan;line-height:12.0000pt;" ><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p></td></tr><tr><td width=640  valign=center  style="width:384.0000pt;padding:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;line-height:12.0000pt;" ><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p><table class=MsoNormalTable  align=center  style="border-collapse:collapse;width:360.0000pt;margin-left:10.8000pt;mso-padding-alt:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><tr><td width=600  valign=center  style="width:360.0000pt;padding:0.0000pt 0.0000pt 0.0000pt 3.0000pt ;border-left:1.0000pt solid rgb(235,235,235);mso-border-left-alt:0.5000pt solid rgb(235,235,235);border-right:1.0000pt solid rgb(235,235,235);mso-border-right-alt:0.5000pt solid rgb(235,235,235);border-top:1.0000pt solid rgb(235,235,235);mso-border-top-alt:0.5000pt solid rgb(235,235,235);border-bottom:1.0000pt solid rgb(235,235,235);mso-border-bottom-alt:0.5000pt solid rgb(235,235,235);background:rgb(66,155,216);" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;line-height:12.0000pt;" ><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(255,255,255);font-size:8.0000pt;mso-font-kerning:0.0000pt;" >教育经历</span><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr><tr><td width=600  valign=center  style="width:360.0000pt;padding:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><table class=MsoNormalTable  style="border-collapse:collapse;margin-left:10.8000pt;mso-padding-alt:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><tr style="height:12.0000pt;" ><td width=132  valign=top  style="width:79.2000pt;padding:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><p class=NewStyle24  align=right  style="mso-pagination:widow-orphan;text-align:right;line-height:12.0000pt;" ><b><span style="mso-spacerun:'yes';font-family:新宋体;color:rgb(0,0,0);font-weight:bold;font-size:7.0000pt;mso-font-kerning:0.0000pt;" >2007/09&nbsp;-&nbsp;2011/07</span></b><b><span style="font-family:新宋体;color:rgb(0,0,0);font-weight:bold;font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></b></p></td><td width=412  valign=center  style="width:247.2000pt;padding:0.0000pt 0.0000pt 0.0000pt 7.2000pt ;" ><p class=MsoNormal  style="word-break:break-all;mso-pagination:widow-orphan;text-align:left;line-height:12.0000pt;" ><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,0,0);font-weight:normal;font-size:7.0000pt;mso-font-kerning:0.0000pt;" >北京信息科技大学&nbsp;&nbsp;信息管理与信息系统&nbsp;&nbsp;本科</span><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr></table><p class=MsoNormal  style="margin-right:7.2000pt;word-break:break-all;mso-pagination:widow-orphan;line-height:12.0000pt;" ><span style="font-family:宋体;color:rgb(51,51,51);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p></td></tr></table><p class=MsoNormal  style="word-break:break-all;mso-pagination:widow-orphan;line-height:12.0000pt;" ><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p></td></tr></table><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;line-height:12.0000pt;" ><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p></td></tr></table><p class=MsoNormal  style="mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" >&nbsp;</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></div><!--EndFragment--></body></html>
+div.Section0{page:Section0;}</style></head><body style="tab-interval:21pt;" ><!--StartFragment--><div class="Section0" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,0,0);display:none;mso-hide:all;font-size:7.0000pt;mso-font-kerning:0.0000pt;" >ID:JR321347040R90250000000</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;display:none;mso-hide:all;font-size:12.0000pt;mso-font-kerning:0.0000pt;" >&nbsp;</span><span style="mso-spacerun:'yes';font-family:宋体;display:none;mso-hide:all;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><table class=MsoNormalTable  align=center  style="border-collapse:collapse;width:384.0000pt;margin-left:16.2000pt;mso-padding-alt:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><tr><td width=640  valign=center  style="width:384.0500pt;padding:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><table class=MsoNormalTable  align=center  style="border-collapse:collapse;width:384.0000pt;margin-left:16.2000pt;mso-padding-alt:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><tr><td width=640  valign=center  style="width:384.0000pt;padding:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><table class=MsoNormalTable  align=center  style="border-collapse:collapse;width:360.0000pt;margin-left:16.2000pt;mso-padding-alt:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><tr style="height:6.0500pt;" ><td width=600  valign=center  colspan=3  style="width:360.0000pt;padding:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;" ><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p></td></tr><tr><td width=408  valign=top  style="width:245.0000pt;padding:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><table class=MsoNormalTable  style="border-collapse:collapse;width:100.0000%;margin-left:16.2000pt;mso-padding-alt:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><tr style="height:30.0000pt;" ><td width=408  valign=center  style="width:245.0000pt;padding:0.0000pt 0.0000pt 0.0000pt 7.2000pt ;" ><p class=MsoNormal  style="word-break:break-all;mso-pagination:widow-orphan;text-align:left;line-height:30.0000pt;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(51,51,51);font-size:13.0000pt;mso-font-kerning:0.0000pt;" >谢冠男</span><span style="font-family:微软雅黑;color:rgb(51,51,51);font-size:13.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr><tr style="height:18.0000pt;" ><td width=408  valign=center  style="width:245.0000pt;padding:0.0000pt 0.0000pt 0.0000pt 7.2000pt ;" ><p class=MsoNormal  style="word-break:break-all;mso-pagination:widow-orphan;text-align:left;line-height:14.4000pt;" ><b><span style="font-family:宋体;color:rgb(0,0,0);font-weight:bold;font-size:7.0000pt;mso-font-kerning:0.0000pt;" >男</span></b><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" >|</span><b><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,0,0);font-weight:bold;font-size:7.0000pt;mso-font-kerning:0.0000pt;" >5年工作经验</span></b><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" >|</span><b><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,0,0);font-weight:bold;font-size:7.0000pt;mso-font-kerning:0.0000pt;" >1987年12月</span></b><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" >|</span><b><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,0,0);font-weight:bold;font-size:7.0000pt;mso-font-kerning:0.0000pt;" >已婚</span></b><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><br></span><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" >现居住于北京|本科</span><span class="18"  style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;" >|</span><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" >&#160;</span><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><br></span><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" >手机：18610933252</span><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><br></span><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" >E-mail：</span><span style="font-family:宋体;font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><a href="mailto:101002552@qq.com" >101002552@qq.com</a></span><o:p></o:p></p></td></tr></table><p class=MsoNormal  style="word-break:break-all;mso-pagination:widow-orphan;line-height:14.4000pt;" ><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p></td><td width=186  valign=center  style="width:111.8500pt;padding:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;line-height:12.0000pt;" ><span style="font-family:宋体;font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><a href="http://mypics.zhaopin.com/pic/2013/7/30/472AA52072FE485C8CE3C069FB27870E.jpg" ><span style="font-family:宋体;font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><img width="187"  height="161"  src="JR321347040R90250000000.files/JR321347040R90250000000381.png" ></span></a></span><o:p></o:p></p></td><td width=5  valign=center  style="width:3.1500pt;padding:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;" ><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p></td></tr><tr style="height:6.0500pt;" ><td width=600  valign=center  colspan=3  style="width:360.0000pt;padding:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;" ><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p></td></tr></table><p class=MsoNormal  style="mso-pagination:widow-orphan;line-height:12.0000pt;" ><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p></td></tr><tr style="height:6.0500pt;" ><td width=640  valign=center  style="width:384.0000pt;padding:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;" ><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p></td></tr><tr><td width=640  valign=center  style="width:384.0000pt;padding:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><table class=MsoNormalTable  align=center  style="border-collapse:collapse;width:360.0000pt;margin-left:16.2000pt;mso-padding-alt:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><tr><td width=600  valign=center  style="width:360.0500pt;padding:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><table class=MsoNormalTable  style="border-collapse:collapse;width:360.0000pt;margin-left:16.2000pt;mso-padding-alt:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><tr><td width=600  valign=center  style="width:360.0000pt;padding:0.0000pt 0.0000pt 0.0000pt 3.0000pt ;border-left:1.0000pt solid rgb(235,235,235);mso-border-left-alt:0.5000pt solid rgb(235,235,235);border-right:1.0000pt solid rgb(235,235,235);mso-border-right-alt:0.5000pt solid rgb(235,235,235);border-top:1.0000pt solid rgb(235,235,235);mso-border-top-alt:0.5000pt solid rgb(235,235,235);border-bottom:1.0000pt solid rgb(235,235,235);mso-border-bottom-alt:0.5000pt solid rgb(235,235,235);background:rgb(66,155,216);" ><p class=MsoNormal  style="word-break:break-all;mso-pagination:widow-orphan;text-align:left;line-height:12.0000pt;" ><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(255,255,255);font-size:8.0000pt;mso-font-kerning:0.0000pt;" >自我评价</span><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr></table><p class=MsoNormal  style="mso-pagination:widow-orphan;" ><span style="font-family:宋体;display:none;mso-hide:all;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p><table class=MsoNormalTable  style="border-collapse:collapse;width:360.0000pt;margin-left:16.2000pt;mso-padding-alt:0.7500pt 0.7500pt 0.7500pt 0.7500pt ;" ><tr style="height:3.0000pt;" ><td width=600  valign=center  style="width:360.0000pt;padding:0.7500pt 0.7500pt 0.7500pt 0.7500pt ;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;" ><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p></td></tr><tr><td width=600  valign=center  style="width:360.0000pt;padding:0.7500pt 0.7500pt 0.7500pt 7.2000pt ;" ><p class=MsoNormal  style="word-break:break-all;mso-pagination:widow-orphan;text-align:left;line-height:12.0000pt;" ><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" >五年JAVA开发经验，熟练使用常见前后端开发框架，如SSH,SpringMVC,mybatis,Redis,Activiti等，前端</span><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><br></span><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" >Angularjs,Bootstrap,JqueryUI等常见框架和插件，熟悉数据库，能够编写存储过程等，熟悉Linux及BashShell脚本，此外对分布式系统、设计模式、JVM、网站架构有一定的了解。此外，因为我个人的规划，我只考虑互联网相关企业，其他一律不考虑，请谅解。本人简历也可通过github免费获取，请移步这里，http://yeluosc.github.io</span><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr><tr style="height:3.0000pt;" ><td width=600  valign=center  style="width:360.0000pt;padding:0.7500pt 0.7500pt 0.7500pt 0.7500pt ;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;line-height:12.0000pt;" ><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p></td></tr><tr style="height:3.0000pt;" ><td width=600  valign=center  style="width:360.0000pt;padding:0.7500pt 0.7500pt 0.7500pt 0.7500pt ;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;" ><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p></td></tr></table><p class=MsoNormal  style="mso-pagination:widow-orphan;line-height:12.0000pt;" ><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p></td></tr></table><p class=MsoNormal  style="word-break:break-all;mso-pagination:widow-orphan;line-height:12.0000pt;" ><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p></td></tr><tr><td width=640  valign=center  style="width:384.0000pt;padding:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;line-height:12.0000pt;" ><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p><table class=MsoNormalTable  align=center  style="border-collapse:collapse;width:360.0000pt;margin-left:16.2000pt;mso-padding-alt:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><tr><td width=600  valign=center  style="width:360.0000pt;padding:0.0000pt 0.0000pt 0.0000pt 3.0000pt ;border-left:1.0000pt solid rgb(235,235,235);mso-border-left-alt:0.5000pt solid rgb(235,235,235);border-right:1.0000pt solid rgb(235,235,235);mso-border-right-alt:0.5000pt solid rgb(235,235,235);border-top:1.0000pt solid rgb(235,235,235);mso-border-top-alt:0.5000pt solid rgb(235,235,235);border-bottom:1.0000pt solid rgb(235,235,235);mso-border-bottom-alt:0.5000pt solid rgb(235,235,235);background:rgb(66,155,216);" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;line-height:12.0000pt;" ><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(255,255,255);font-size:8.0000pt;mso-font-kerning:0.0000pt;" >求职意向</span><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr></table><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;" ><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p><table class=MsoNormalTable  align=center  style="border-collapse:collapse;width:360.0000pt;margin-left:16.2000pt;mso-padding-alt:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><tr><td width=100  valign=top  style="width:60.0000pt;padding:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><p class=NewStyle30  align=right  style="mso-pagination:widow-orphan;text-align:right;line-height:12.0000pt;" ><b><span style="mso-spacerun:'yes';font-family:新宋体;color:rgb(0,0,0);font-weight:bold;font-size:7.0000pt;mso-font-kerning:0.0000pt;" >目前状况：</span></b><b><span style="font-family:新宋体;color:rgb(0,0,0);font-weight:bold;font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></b></p></td><td width=500  valign=top  style="width:300.0000pt;padding:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><p class=MsoNormal  style="word-break:break-all;mso-pagination:widow-orphan;text-align:left;line-height:12.0000pt;" ><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(51,51,51);font-size:7.0000pt;mso-font-kerning:0.0000pt;" >我目前处于离职状态，可立即上岗</span><span style="font-family:宋体;color:rgb(51,51,51);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr></table><p class=MsoNormal  style="word-break:break-all;mso-pagination:widow-orphan;line-height:12.0000pt;" ><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p></td></tr><tr><td width=640  valign=center  style="width:384.0000pt;padding:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;line-height:12.0000pt;" ><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p><table class=MsoNormalTable  align=center  style="border-collapse:collapse;width:360.0000pt;margin-left:16.2000pt;mso-padding-alt:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><tr><td width=600  valign=center  style="width:360.0000pt;padding:0.0000pt 0.0000pt 0.0000pt 3.0000pt ;border-left:1.0000pt solid rgb(235,235,235);mso-border-left-alt:0.5000pt solid rgb(235,235,235);border-right:1.0000pt solid rgb(235,235,235);mso-border-right-alt:0.5000pt solid rgb(235,235,235);border-top:1.0000pt solid rgb(235,235,235);mso-border-top-alt:0.5000pt solid rgb(235,235,235);border-bottom:1.0000pt solid rgb(235,235,235);mso-border-bottom-alt:0.5000pt solid rgb(235,235,235);background:rgb(66,155,216);" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;line-height:12.0000pt;" ><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(255,255,255);font-size:8.0000pt;mso-font-kerning:0.0000pt;" >工作经历</span><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr></table><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;" ><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p><table class=MsoNormalTable  align=center  style="border-collapse:collapse;width:360.0000pt;margin-left:16.2000pt;mso-padding-alt:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><tr><td width=600  valign=center  style="width:360.0000pt;padding:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><table class=MsoNormalTable  style="border-collapse:collapse;margin-left:16.2000pt;mso-padding-alt:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><tr style="height:13.2000pt;" ><td width=132  valign=center  style="width:79.2000pt;padding:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><p class=NewStyle30  align=right  style="word-break:break-all;mso-pagination:widow-orphan;text-align:right;line-height:12.0000pt;" ><b><span style="mso-spacerun:'yes';font-family:新宋体;color:rgb(0,0,0);font-weight:bold;font-size:7.0000pt;mso-font-kerning:0.0000pt;" >2014/09&nbsp;-&nbsp;至今&nbsp;</span></b><b><span style="font-family:新宋体;color:rgb(0,0,0);font-weight:bold;font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></b></p></td><td width=424  valign=center  style="width:254.4000pt;padding:0.0000pt 0.0000pt 0.0000pt 8.4000pt ;" ><p class=MsoNormal  style="word-break:break-all;mso-pagination:widow-orphan;text-align:left;line-height:12.0000pt;" ><b><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,0,0);font-weight:bold;font-size:7.0000pt;mso-font-kerning:0.0000pt;" >北京市太极华青信息系统有限公司产品开发部</span></b><b><span style="mso-spacerun:'yes';font-family:新宋体;color:rgb(0,0,0);font-weight:bold;font-size:7.0000pt;mso-font-kerning:0.0000pt;" >&nbsp;（1年8个月）&nbsp;</span></b><b><span style="font-family:宋体;color:rgb(0,0,0);font-weight:bold;font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></b></p></td></tr><tr style="height:13.2000pt;" ><td width=132  valign=center  style="width:79.2000pt;padding:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;" ><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p></td><td width=424  valign=center  style="width:254.4000pt;padding:0.0000pt 0.0000pt 0.0000pt 8.4000pt ;" ><p class=MsoNormal  style="word-break:break-all;mso-pagination:widow-orphan;text-align:left;line-height:12.0000pt;" ><b><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,0,0);font-weight:bold;font-size:7.0000pt;mso-font-kerning:0.0000pt;" >软件工程师</span></b><b><span style="mso-spacerun:'yes';font-family:新宋体;color:rgb(0,0,0);font-weight:bold;font-size:7.0000pt;mso-font-kerning:0.0000pt;" >|保密</span></b><b><span style="font-family:新宋体;color:rgb(0,0,0);font-weight:bold;font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></b></p></td></tr><tr style="height:13.2000pt;" ><td width=132  valign=center  style="width:79.2000pt;padding:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;" ><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p></td><td width=424  valign=center  style="width:254.4000pt;padding:0.0000pt 0.0000pt 0.0000pt 8.4000pt ;" ><p class=MsoNormal  style="word-break:break-all;mso-pagination:widow-orphan;text-align:left;line-height:12.0000pt;" ><span style="mso-spacerun:'yes';font-family:新宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" >计算机软件</span><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" >|&nbsp;企业性质：股份制企业|&nbsp;规模：1000-9999人</span><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr><tr style="height:13.2000pt;" ><td width=132  valign=center  style="width:79.2000pt;padding:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;" ><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p></td><td width=424  valign=center  style="width:254.4000pt;padding:0.0000pt 0.0000pt 0.0000pt 8.4000pt ;" ><p class=NewStyle30  style="word-break:break-all;mso-pagination:widow-orphan;line-height:12.0000pt;" ><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" >工作描述：1、根据产品开发经理分配的业务需求进行系统开发。</span><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr></table><p class=MsoNormal  style="word-break:break-all;mso-pagination:widow-orphan;line-height:12.0000pt;" ><span style="font-family:宋体;color:rgb(51,51,51);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p></td></tr><tr><td width=600  valign=center  style="width:360.0000pt;padding:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><table class=MsoNormalTable  style="border-collapse:collapse;margin-left:16.2000pt;mso-padding-alt:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><tr style="height:13.2000pt;" ><td width=132  valign=center  style="width:79.2000pt;padding:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><p class=NewStyle30  align=right  style="word-break:break-all;mso-pagination:widow-orphan;text-align:right;line-height:12.0000pt;" ><b><span style="mso-spacerun:'yes';font-family:新宋体;color:rgb(0,0,0);font-weight:bold;font-size:7.0000pt;mso-font-kerning:0.0000pt;" >2011/07&nbsp;-&nbsp;2014/09</span></b><b><span style="font-family:新宋体;color:rgb(0,0,0);font-weight:bold;font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></b></p></td><td width=424  valign=center  style="width:254.4000pt;padding:0.0000pt 0.0000pt 0.0000pt 8.4000pt ;" ><p class=MsoNormal  style="word-break:break-all;mso-pagination:widow-orphan;text-align:left;line-height:12.0000pt;" ><b><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,0,0);font-weight:bold;font-size:7.0000pt;mso-font-kerning:0.0000pt;" >首都信息发展股份有限公司</span></b><b><span style="mso-spacerun:'yes';font-family:新宋体;color:rgb(0,0,0);font-weight:bold;font-size:7.0000pt;mso-font-kerning:0.0000pt;" >&nbsp;（3年2个月）&nbsp;</span></b><b><span style="font-family:宋体;color:rgb(0,0,0);font-weight:bold;font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></b></p></td></tr><tr style="height:13.2000pt;" ><td width=132  valign=center  style="width:79.2000pt;padding:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;" ><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p></td><td width=424  valign=center  style="width:254.4000pt;padding:0.0000pt 0.0000pt 0.0000pt 8.4000pt ;" ><p class=MsoNormal  style="word-break:break-all;mso-pagination:widow-orphan;text-align:left;line-height:12.0000pt;" ><b><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,0,0);font-weight:bold;font-size:7.0000pt;mso-font-kerning:0.0000pt;" >软件工程师</span></b><b><span style="mso-spacerun:'yes';font-family:新宋体;color:rgb(0,0,0);font-weight:bold;font-size:7.0000pt;mso-font-kerning:0.0000pt;" >|保密</span></b><b><span style="font-family:新宋体;color:rgb(0,0,0);font-weight:bold;font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></b></p></td></tr><tr style="height:13.2000pt;" ><td width=132  valign=center  style="width:79.2000pt;padding:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;" ><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p></td><td width=424  valign=center  style="width:254.4000pt;padding:0.0000pt 0.0000pt 0.0000pt 8.4000pt ;" ><p class=MsoNormal  style="word-break:break-all;mso-pagination:widow-orphan;text-align:left;line-height:12.0000pt;" ><span style="mso-spacerun:'yes';font-family:新宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" >互联网/电子商务</span><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" >|&nbsp;企业性质：上市公司|&nbsp;规模：1000-9999人</span><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr><tr style="height:13.2000pt;" ><td width=132  valign=center  style="width:79.2000pt;padding:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;" ><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p></td><td width=424  valign=center  style="width:254.4000pt;padding:0.0000pt 0.0000pt 0.0000pt 8.4000pt ;" ><p class=NewStyle30  style="word-break:break-all;mso-pagination:widow-orphan;line-height:12.0000pt;" ><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" >工作描述：产后康复中心系统担任项目经理：</span><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><br></span><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" >1、负责信息系统的业务需求调研，梳理需求，完成用户需求列表；</span><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><br></span><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" >2、开发阶段，指导开发组组长业务，配合完成开发，同时，在开发阶段，负责少部分模块的开发工作。在该阶段定期回溯，确保符合业务需求，对于不确定的问题，积极联系客户，解决问题；</span><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><br></span><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" >3、测试阶段，配合测试组完成测试。对测试组进行业务培训，讲解业务流程及规则，追踪BUG，确保系统符合质量要求；</span><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><br></span><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" >4、部署阶段，部署业务系统后，向客户进行系统汇报，对新需求进行记录及分析。</span><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><br></span><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" >CRM系统中担任开发程序员：</span><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><br></span><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" >1、根据项目经理分配的开发任务，负责项目功能模块的开发。</span><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><br></span><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" >离职原因：开发团队领导离职，团队人员陆续离职，各方面工作不好开展</span><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr></table><p class=MsoNormal  style="word-break:break-all;mso-pagination:widow-orphan;line-height:12.0000pt;" ><span style="font-family:宋体;color:rgb(51,51,51);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p></td></tr></table><p class=MsoNormal  style="mso-pagination:widow-orphan;line-height:12.0000pt;" ><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p></td></tr><tr><td width=640  valign=center  style="width:384.0000pt;padding:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;line-height:12.0000pt;" ><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p><table class=MsoNormalTable  align=center  style="border-collapse:collapse;width:360.0000pt;margin-left:16.2000pt;mso-padding-alt:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><tr><td width=600  valign=center  style="width:360.0000pt;padding:0.0000pt 0.0000pt 0.0000pt 3.0000pt ;border-left:1.0000pt solid rgb(235,235,235);mso-border-left-alt:0.5000pt solid rgb(235,235,235);border-right:1.0000pt solid rgb(235,235,235);mso-border-right-alt:0.5000pt solid rgb(235,235,235);border-top:1.0000pt solid rgb(235,235,235);mso-border-top-alt:0.5000pt solid rgb(235,235,235);border-bottom:1.0000pt solid rgb(235,235,235);mso-border-bottom-alt:0.5000pt solid rgb(235,235,235);background:rgb(66,155,216);" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;line-height:12.0000pt;" ><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(255,255,255);font-size:8.0000pt;mso-font-kerning:0.0000pt;" >项目经验</span><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr></table><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;" ><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p><table class=MsoNormalTable  align=center  style="border-collapse:collapse;width:360.0000pt;margin-left:16.2000pt;mso-padding-alt:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><tr><td width=600  valign=center  style="width:360.0000pt;padding:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><table class=MsoNormalTable  style="border-collapse:collapse;margin-left:16.2000pt;mso-padding-alt:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><tr style="height:13.2000pt;" ><td width=132  valign=center  style="width:79.2000pt;padding:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><p class=NewStyle30  align=right  style="word-break:break-all;mso-pagination:widow-orphan;text-align:right;line-height:12.0000pt;" ><b><span style="mso-spacerun:'yes';font-family:新宋体;color:rgb(0,0,0);font-weight:bold;font-size:7.0000pt;mso-font-kerning:0.0000pt;" >2015/12&nbsp;-&nbsp;2016/04</span></b><b><span style="font-family:新宋体;color:rgb(0,0,0);font-weight:bold;font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></b></p></td><td width=424  valign=center  style="width:254.4000pt;padding:0.0000pt 0.0000pt 0.0000pt 8.4000pt ;" ><p class=MsoNormal  style="word-break:break-all;mso-pagination:widow-orphan;text-align:left;line-height:12.0000pt;" ><b><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,0,0);font-weight:bold;font-size:7.0000pt;mso-font-kerning:0.0000pt;" >通用单据系统</span></b><b><span style="font-family:宋体;color:rgb(0,0,0);font-weight:bold;font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></b></p></td></tr><tr style="height:13.2000pt;" ><td width=132  valign=center  style="width:79.2000pt;padding:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;" ><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p></td><td width=424  valign=center  style="width:254.4000pt;padding:0.0000pt 0.0000pt 0.0000pt 8.4000pt ;" ><p class=NewStyle30  style="word-break:break-all;mso-pagination:widow-orphan;line-height:12.0000pt;" ><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" >软件环境：Weblogic+Linux</span><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr><tr style="height:13.2000pt;" ><td width=132  valign=center  style="width:79.2000pt;padding:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;" ><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p></td><td width=424  valign=center  style="width:254.4000pt;padding:0.0000pt 0.0000pt 0.0000pt 8.4000pt ;" ><p class=NewStyle30  style="word-break:break-all;mso-pagination:widow-orphan;line-height:12.0000pt;" ><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" >责任描述：该项目是公司近期的一个新项目，本人担当该项目的项目经理；</span><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><br></span><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" >1、协调业务部，梳理需求，组织开发人员完成相应需求的开发，负责3名开发人员的工作安排；</span><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><br></span><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" >2、解决开发人员遇到的问题；</span><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><br></span><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" >3、技术以外，其他一些管理方面的事情；</span><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr><tr style="height:13.2000pt;" ><td width=132  valign=center  style="width:79.2000pt;padding:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;" ><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p></td><td width=424  valign=center  style="width:254.4000pt;padding:0.0000pt 0.0000pt 0.0000pt 8.4000pt ;" ><p class=NewStyle30  style="word-break:break-all;mso-pagination:widow-orphan;line-height:12.0000pt;" ><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" >项目简介：该项目也是公司通用产品下的一个子项目，我们扩展符合新的业务需求的子系统；</span><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><br></span><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" >项目业务简单描述，通过OA系统发送各种公文，公文下可以附带各种类型的单据，业务人员可以对单据中自定义的业务表进行录入，自动审核，公式计算等操作。业务表的种类有很多，比如有最常见的普通表格，有固定行列的表格，固定行的浮动表等等。</span><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr></table><p class=MsoNormal  style="word-break:break-all;mso-pagination:widow-orphan;line-height:12.0000pt;" ><span style="font-family:宋体;color:rgb(51,51,51);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p></td></tr><tr><td width=600  valign=center  style="width:360.0000pt;padding:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><table class=MsoNormalTable  style="border-collapse:collapse;margin-left:16.2000pt;mso-padding-alt:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><tr style="height:13.2000pt;" ><td width=132  valign=center  style="width:79.2000pt;padding:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><p class=NewStyle30  align=right  style="word-break:break-all;mso-pagination:widow-orphan;text-align:right;line-height:12.0000pt;" ><b><span style="mso-spacerun:'yes';font-family:新宋体;color:rgb(0,0,0);font-weight:bold;font-size:7.0000pt;mso-font-kerning:0.0000pt;" >2015/04&nbsp;-&nbsp;2016/05</span></b><b><span style="font-family:新宋体;color:rgb(0,0,0);font-weight:bold;font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></b></p></td><td width=424  valign=center  style="width:254.4000pt;padding:0.0000pt 0.0000pt 0.0000pt 8.4000pt ;" ><p class=MsoNormal  style="word-break:break-all;mso-pagination:widow-orphan;text-align:left;line-height:12.0000pt;" ><b><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,0,0);font-weight:bold;font-size:7.0000pt;mso-font-kerning:0.0000pt;" >数据库同步系统</span></b><b><span style="font-family:宋体;color:rgb(0,0,0);font-weight:bold;font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></b></p></td></tr><tr style="height:13.2000pt;" ><td width=132  valign=center  style="width:79.2000pt;padding:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;" ><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p></td><td width=424  valign=center  style="width:254.4000pt;padding:0.0000pt 0.0000pt 0.0000pt 8.4000pt ;" ><p class=NewStyle30  style="word-break:break-all;mso-pagination:widow-orphan;line-height:12.0000pt;" ><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" >软件环境：Weblogic+Oracle</span><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr><tr style="height:13.2000pt;" ><td width=132  valign=center  style="width:79.2000pt;padding:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;" ><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p></td><td width=424  valign=center  style="width:254.4000pt;padding:0.0000pt 0.0000pt 0.0000pt 8.4000pt ;" ><p class=NewStyle30  style="word-break:break-all;mso-pagination:widow-orphan;line-height:12.0000pt;" ><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" >开发工具：MyEclipse</span><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr><tr style="height:13.2000pt;" ><td width=132  valign=center  style="width:79.2000pt;padding:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;" ><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p></td><td width=424  valign=center  style="width:254.4000pt;padding:0.0000pt 0.0000pt 0.0000pt 8.4000pt ;" ><p class=NewStyle30  style="word-break:break-all;mso-pagination:widow-orphan;line-height:12.0000pt;" ><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" >责任描述：1、独自负责完成部门经理提出的业务需求的相关开发；</span><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><br></span><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" >2、熟悉源代码并发现代码结构不合理后，自觉并独自完成了整套系统的重构工作；</span><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><br></span><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" >3、对测试及实施人员提出的问题及修改意见进行修改。</span><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr><tr style="height:13.2000pt;" ><td width=132  valign=center  style="width:79.2000pt;padding:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;" ><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p></td><td width=424  valign=center  style="width:254.4000pt;padding:0.0000pt 0.0000pt 0.0000pt 8.4000pt ;" ><p class=NewStyle30  style="word-break:break-all;mso-pagination:widow-orphan;line-height:12.0000pt;" ><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" >项目简介：该项目用于两个物理数据库之间的表数据、表结构、视图、存储器、触发器的同步工作；在业务上主要体现在，上级部门给下级单位的下发数据库表上，这样就可以做到数据库的物理隔离，同时保持数据及结构上的同步，如中央通过该系统将数据、结构等同步给各省市的数据库，最后各省市又将填报的数据同步上报至中央数据库中；该系统难点在于CLOB,BLOB字段以及复杂业务逻辑的处理等一系列的问题处理上。</span><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><br></span><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><br></span><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" >后续：在完成第一版后，渐渐发现原版本的程序结构已经跟不上业务需求的变化，导致代码内部逻辑比较混乱，各个类之间关系复杂，每次修改都要花费大量时间，系统慢慢走向一条死胡同。之后，我利用三周的时间，重新梳理结构，运用设计模式将其重构了一套2.0版本的系统，将业务与通用代码进行了分离，业务变化点基本上都做了抽象，系统启动时自动加载开发者的实现；与此同时我又将各个类的职责划分更明确，使其符合OOP中最基础的SRP原则。我重构的这套系统目前完全适应业务的变化，而通用的部分又可以方便的运用在其他项目中，总之这套系统重构非常成功。</span><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr></table><p class=MsoNormal  style="word-break:break-all;mso-pagination:widow-orphan;line-height:12.0000pt;" ><span style="font-family:宋体;color:rgb(51,51,51);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p></td></tr><tr><td width=600  valign=center  style="width:360.0000pt;padding:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><table class=MsoNormalTable  style="border-collapse:collapse;margin-left:16.2000pt;mso-padding-alt:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><tr style="height:13.2000pt;" ><td width=132  valign=center  style="width:79.2000pt;padding:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><p class=NewStyle30  align=right  style="word-break:break-all;mso-pagination:widow-orphan;text-align:right;line-height:12.0000pt;" ><b><span style="mso-spacerun:'yes';font-family:新宋体;color:rgb(0,0,0);font-weight:bold;font-size:7.0000pt;mso-font-kerning:0.0000pt;" >2014/09&nbsp;-&nbsp;2016/05</span></b><b><span style="font-family:新宋体;color:rgb(0,0,0);font-weight:bold;font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></b></p></td><td width=424  valign=center  style="width:254.4000pt;padding:0.0000pt 0.0000pt 0.0000pt 8.4000pt ;" ><p class=MsoNormal  style="word-break:break-all;mso-pagination:widow-orphan;text-align:left;line-height:12.0000pt;" ><b><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,0,0);font-weight:bold;font-size:7.0000pt;mso-font-kerning:0.0000pt;" >预算综合管理系统</span></b><b><span style="font-family:宋体;color:rgb(0,0,0);font-weight:bold;font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></b></p></td></tr><tr style="height:13.2000pt;" ><td width=132  valign=center  style="width:79.2000pt;padding:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;" ><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p></td><td width=424  valign=center  style="width:254.4000pt;padding:0.0000pt 0.0000pt 0.0000pt 8.4000pt ;" ><p class=NewStyle30  style="word-break:break-all;mso-pagination:widow-orphan;line-height:12.0000pt;" ><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" >软件环境：Weblogic+Oracle</span><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr><tr style="height:13.2000pt;" ><td width=132  valign=center  style="width:79.2000pt;padding:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;" ><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p></td><td width=424  valign=center  style="width:254.4000pt;padding:0.0000pt 0.0000pt 0.0000pt 8.4000pt ;" ><p class=NewStyle30  style="word-break:break-all;mso-pagination:widow-orphan;line-height:12.0000pt;" ><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" >开发工具：MyEclipse</span><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr><tr style="height:13.2000pt;" ><td width=132  valign=center  style="width:79.2000pt;padding:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;" ><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p></td><td width=424  valign=center  style="width:254.4000pt;padding:0.0000pt 0.0000pt 0.0000pt 8.4000pt ;" ><p class=NewStyle30  style="word-break:break-all;mso-pagination:widow-orphan;line-height:12.0000pt;" ><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" >责任描述：1、该项目中，我主要负责工作流任务模块的代码开发及维护；</span><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr><tr style="height:13.2000pt;" ><td width=132  valign=center  style="width:79.2000pt;padding:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;" ><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p></td><td width=424  valign=center  style="width:254.4000pt;padding:0.0000pt 0.0000pt 0.0000pt 8.4000pt ;" ><p class=NewStyle30  style="word-break:break-all;mso-pagination:widow-orphan;line-height:12.0000pt;" ><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" >项目简介：该系统面向用户为中国财政部中央预算处。业务层面十分复杂，用最简单的话描述：每年中央预算处下达第二年的预算任务，由全国各个省、市、县根据中央下达的任务进行填报、审批，再按层级向上汇报，各级单位可以随时查看上报给本级单位的汇总数据。该项目是产品化项目，目前即将面向全国各财政部门推广，已经在中国财政部、陕西省财政厅等地方陆续上线。项目开发框架采用SSM+Dubbo，在系统架构上由公共平台提供基础服务，通过dubbo远程调用各个子系统服务，而前台使用一套公司自己研发的框架，类似EXT，与业务关联性很强。</span><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr></table><p class=MsoNormal  style="word-break:break-all;mso-pagination:widow-orphan;line-height:12.0000pt;" ><span style="font-family:宋体;color:rgb(51,51,51);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p></td></tr><tr><td width=600  valign=center  style="width:360.0000pt;padding:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><table class=MsoNormalTable  style="border-collapse:collapse;margin-left:16.2000pt;mso-padding-alt:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><tr style="height:13.2000pt;" ><td width=132  valign=center  style="width:79.2000pt;padding:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><p class=NewStyle30  align=right  style="word-break:break-all;mso-pagination:widow-orphan;text-align:right;line-height:12.0000pt;" ><b><span style="mso-spacerun:'yes';font-family:新宋体;color:rgb(0,0,0);font-weight:bold;font-size:7.0000pt;mso-font-kerning:0.0000pt;" >2011/07&nbsp;-&nbsp;2014/08</span></b><b><span style="font-family:新宋体;color:rgb(0,0,0);font-weight:bold;font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></b></p></td><td width=424  valign=center  style="width:254.4000pt;padding:0.0000pt 0.0000pt 0.0000pt 8.4000pt ;" ><p class=MsoNormal  style="word-break:break-all;mso-pagination:widow-orphan;text-align:left;line-height:12.0000pt;" ><b><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,0,0);font-weight:bold;font-size:7.0000pt;mso-font-kerning:0.0000pt;" >医疗CRM产品</span></b><b><span style="font-family:宋体;color:rgb(0,0,0);font-weight:bold;font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></b></p></td></tr><tr style="height:13.2000pt;" ><td width=132  valign=center  style="width:79.2000pt;padding:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;" ><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p></td><td width=424  valign=center  style="width:254.4000pt;padding:0.0000pt 0.0000pt 0.0000pt 8.4000pt ;" ><p class=NewStyle30  style="word-break:break-all;mso-pagination:widow-orphan;line-height:12.0000pt;" ><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" >开发工具：eclipse</span><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr><tr style="height:13.2000pt;" ><td width=132  valign=center  style="width:79.2000pt;padding:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;" ><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p></td><td width=424  valign=center  style="width:254.4000pt;padding:0.0000pt 0.0000pt 0.0000pt 8.4000pt ;" ><p class=NewStyle30  style="word-break:break-all;mso-pagination:widow-orphan;line-height:12.0000pt;" ><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" >责任描述：负责部分模块开发及相关数据库设计，包括问卷调查、行为规则设置、系统自动回访、呼叫中心及微信模块，以上模块全部独立完成开发。</span><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr><tr style="height:13.2000pt;" ><td width=132  valign=center  style="width:79.2000pt;padding:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;" ><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p></td><td width=424  valign=center  style="width:254.4000pt;padding:0.0000pt 0.0000pt 0.0000pt 8.4000pt ;" ><p class=NewStyle30  style="word-break:break-all;mso-pagination:widow-orphan;line-height:12.0000pt;" ><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" >项目简介：建设&#8220;数字化医院&#8221;是目前很多医疗机构提出的建院方针。系统的应用，对提高管理的动态性、有效性和科学性将发挥积极作用。在规范医疗机构业务流程的同时，很多医疗行业相关人士认识到建立以客户为中心的信息系统的重要性，使医院有效地管理客户资源，提供与客户沟通的统一平台，改变客户服务模式，提高采集客户反馈的频率和正确率，减少沟通环节，降低运营成本，发现新客户和机会，提高客户满意度和忠诚度，最终实现医院效益的提高。</span><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr></table><p class=MsoNormal  style="word-break:break-all;mso-pagination:widow-orphan;line-height:12.0000pt;" ><span style="font-family:宋体;color:rgb(51,51,51);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p></td></tr></table><p class=MsoNormal  style="word-break:break-all;mso-pagination:widow-orphan;line-height:12.0000pt;" ><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p></td></tr><tr><td width=640  valign=center  style="width:384.0000pt;padding:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;line-height:12.0000pt;" ><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p><table class=MsoNormalTable  align=center  style="border-collapse:collapse;width:360.0000pt;margin-left:16.2000pt;mso-padding-alt:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><tr><td width=600  valign=center  style="width:360.0000pt;padding:0.0000pt 0.0000pt 0.0000pt 3.0000pt ;border-left:1.0000pt solid rgb(235,235,235);mso-border-left-alt:0.5000pt solid rgb(235,235,235);border-right:1.0000pt solid rgb(235,235,235);mso-border-right-alt:0.5000pt solid rgb(235,235,235);border-top:1.0000pt solid rgb(235,235,235);mso-border-top-alt:0.5000pt solid rgb(235,235,235);border-bottom:1.0000pt solid rgb(235,235,235);mso-border-bottom-alt:0.5000pt solid rgb(235,235,235);background:rgb(66,155,216);" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;line-height:12.0000pt;" ><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(255,255,255);font-size:8.0000pt;mso-font-kerning:0.0000pt;" >教育经历</span><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr><tr><td width=600  valign=center  style="width:360.0000pt;padding:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><table class=MsoNormalTable  style="border-collapse:collapse;margin-left:16.2000pt;mso-padding-alt:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><tr style="height:12.0000pt;" ><td width=132  valign=top  style="width:79.2000pt;padding:0.0000pt 0.0000pt 0.0000pt 0.0000pt ;" ><p class=NewStyle30  align=right  style="mso-pagination:widow-orphan;text-align:right;line-height:12.0000pt;" ><b><span style="mso-spacerun:'yes';font-family:新宋体;color:rgb(0,0,0);font-weight:bold;font-size:7.0000pt;mso-font-kerning:0.0000pt;" >2007/09&nbsp;-&nbsp;2011/07</span></b><b><span style="font-family:新宋体;color:rgb(0,0,0);font-weight:bold;font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></b></p></td><td width=412  valign=center  style="width:247.2000pt;padding:0.0000pt 0.0000pt 0.0000pt 7.2000pt ;" ><p class=MsoNormal  style="word-break:break-all;mso-pagination:widow-orphan;text-align:left;line-height:12.0000pt;" ><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,0,0);font-weight:normal;font-size:7.0000pt;mso-font-kerning:0.0000pt;" >北京信息科技大学&nbsp;&nbsp;信息管理与信息系统&nbsp;&nbsp;本科</span><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr></table><p class=MsoNormal  style="margin-right:7.2000pt;word-break:break-all;mso-pagination:widow-orphan;line-height:12.0000pt;" ><span style="font-family:宋体;color:rgb(51,51,51);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p></td></tr></table><p class=MsoNormal  style="word-break:break-all;mso-pagination:widow-orphan;line-height:12.0000pt;" ><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p></td></tr></table><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;line-height:12.0000pt;" ><span style="font-family:宋体;color:rgb(0,0,0);font-size:7.0000pt;mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p></td></tr></table><p class=MsoNormal  style="mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p></div><!--EndFragment--></body></html>
